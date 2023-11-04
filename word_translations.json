@@ -1,0 +1,302 @@
+[
+    {
+        "word": "surprise",
+        "repeat": 1,
+        "translate": "hayron",
+        "is_english": true
+    },
+    {
+        "word": "do",
+        "repeat": 1,
+        "translate": "men",
+        "is_english": true
+    },
+    {
+        "word": "not",
+        "repeat": 1,
+        "translate": "bo'lsam",
+        "is_english": true
+    },
+    {
+        "word": "interrupt",
+        "repeat": 1,
+        "translate": "xalaqit",
+        "is_english": true
+    },
+    {
+        "word": "me",
+        "repeat": 1,
+        "translate": "bermang",
+        "is_english": true
+    },
+    {
+        "word": "when",
+        "repeat": 1,
+        "translate": "zonada",
+        "is_english": true
+    },
+    {
+        "word": "i",
+        "repeat": 1,
+        "translate": "zebra",
+        "is_english": true
+    },
+    {
+        "word": "m",
+        "repeat": 1,
+        "translate": "uni",
+        "is_english": true
+    },
+    {
+        "word": "when",
+        "repeat": 1,
+        "translate": "yolg'iz",
+        "is_english": true
+    },
+    {
+        "word": "a",
+        "repeat": 1,
+        "translate": "tashlab",
+        "is_english": true
+    },
+    {
+        "word": "zebra",
+        "repeat": 1,
+        "translate": "keting",
+        "is_english": true
+    },
+    {
+        "word": "s",
+        "repeat": 1,
+        "translate": "faqat",
+        "is_english": true
+    },
+    {
+        "word": "in",
+        "repeat": 1,
+        "translate": "tug'ilgan",
+        "is_english": true
+    },
+    {
+        "word": "the",
+        "repeat": 1,
+        "translate": "kuning",
+        "is_english": true
+    },
+    {
+        "word": "zone",
+        "repeat": 1,
+        "translate": "bilan",
+        "is_english": true
+    },
+    {
+        "word": "leave",
+        "repeat": 1,
+        "translate": "tabriklash",
+        "is_english": true
+    },
+    {
+        "word": "him",
+        "repeat": 1,
+        "translate": "uchun",
+        "is_english": true
+    },
+    {
+        "word": "alone",
+        "repeat": 1,
+        "translate": "hoy",
+        "is_english": true
+    },
+    {
+        "word": "come",
+        "repeat": 1,
+        "translate": "odam",
+        "is_english": true
+    },
+    {
+        "word": "on",
+        "repeat": 1,
+        "translate": "rahmat",
+        "is_english": true
+    },
+    {
+        "word": "just",
+        "repeat": 1,
+        "translate": "hoy",
+        "is_english": true
+    },
+    {
+        "word": "to",
+        "repeat": 1,
+        "translate": "tishlarimga",
+        "is_english": true
+    },
+    {
+        "word": "wish",
+        "repeat": 1,
+        "translate": "nimadir",
+        "is_english": true
+    },
+    {
+        "word": "you",
+        "repeat": 1,
+        "translate": "tiqilib",
+        "is_english": true
+    },
+    {
+        "word": "a",
+        "repeat": 1,
+        "translate": "qoldi",
+        "is_english": true
+    },
+    {
+        "word": "happy",
+        "repeat": 1,
+        "translate": "u",
+        "is_english": true
+    },
+    {
+        "word": "birthday",
+        "repeat": 1,
+        "translate": "meni",
+        "is_english": true
+    },
+    {
+        "word": "hey",
+        "repeat": 1,
+        "translate": "aqldan",
+        "is_english": true
+    },
+    {
+        "word": "man",
+        "repeat": 1,
+        "translate": "ozdirdi",
+        "is_english": true
+    },
+    {
+        "word": "thanks",
+        "repeat": 1,
+        "translate": "yordam",
+        "is_english": true
+    },
+    {
+        "word": "hey",
+        "repeat": 1,
+        "translate": "bera",
+        "is_english": true
+    },
+    {
+        "word": "i",
+        "repeat": 1,
+        "translate": "olasizmi",
+        "is_english": true
+    },
+    {
+        "word": "got",
+        "repeat": 1,
+        "translate": "iltimos",
+        "is_english": true
+    },
+    {
+        "word": "something",
+        "repeat": 1,
+        "translate": "keldingiz",
+        "is_english": true
+    },
+    {
+        "word": "stuck",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "in",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "my",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "teeth",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "it",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "s",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "driving",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "me",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "crazy",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "can",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "you",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "help",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "me",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "please",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "you",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    },
+    {
+        "word": "came",
+        "repeat": 1,
+        "translate": null,
+        "is_english": true
+    }
+]
