@@ -10,13 +10,15 @@ pip install deep-translator
 
 # Usage
 
+
+
 ```bash
-1. main.py run
+python main.py 
 ```
+```bash
+python remove_words.py 
 ```
-2. remove_words.py run
-```
-```
-3. trasnlate_and_add.py run
+```bash
+python trasnlate_and_add.py
 ```
 by [xoliqov](https://www.instagram.com/23.xww/)
