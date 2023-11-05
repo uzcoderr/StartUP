@@ -32,14 +32,14 @@ def count_word_occurrences(input_file, output_file):
     result = {
         "word_count": word_count
     }
-    removeWords(result)
+    removeWords(result, output_file)
 
 
-def removeWords(data):
+def removeWords(data, output_file):
     word_count_dict = data.get("word_count", {})
     english_word_count = {word: count for word, count in word_count_dict.items() if is_english_word(word)}
     data["word_count"] = english_word_count
-    translate(data)
+    translate(data, output_file)
 
 
 class TranslationEntry:
@@ -55,7 +55,7 @@ def translate_word(word, number, translator, results):
     results.append(entry)
 
 
-def translate(data):
+def translate(data, output_file):
     translator = Translator()
     print('Translating...')
 
@@ -83,11 +83,11 @@ def translate(data):
     output_data = [{'word': entry.word, 'number': entry.number, 'translate': entry.translation} for entry in
                    translated_entries]
 
-    with open('output.json', 'w', encoding='utf-8') as json_file:
+    with open(f'{output_file}.json', 'w', encoding='utf-8') as json_file:
         json.dump(output_data, json_file, ensure_ascii=False, indent=4)
 
 
 if __name__ == '__main__':
-    input_file = 'words.txt'
-    output_file = 'output.json'
+    input_file = input('Input File path: ')
+    output_file = input('Movie name: ')
     count_word_occurrences(input_file, output_file)
