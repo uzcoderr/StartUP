@@ -3,7 +3,7 @@ import nltk
 from nltk.corpus import wordnet
 
 # Download the WordNet dataset (if not already downloaded)
-nltk.download('wordnet')
+# nltk.download('wordnet')
 
 # Load the JSON object
 with open('output.json', 'r') as file:

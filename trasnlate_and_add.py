@@ -11,13 +11,16 @@ class TranslationEntry:
         self.number = number
         self.translation = translation
 
+
 def translate_word(word, number, translator, results):
     translation = GoogleTranslator(source='en', target='uz').translate(word)
     entry = TranslationEntry(word, number, translation)
     results.append(entry)
 
+
 def main():
     translator = Translator()
+    print('Translating...')
 
     with open('output.json', 'r', encoding='utf-8') as json_file:
         data = json.load(json_file)
@@ -37,6 +40,7 @@ def main():
 
     with open('output.json', 'w', encoding='utf-8') as json_file:
         json.dump(output_data, json_file, ensure_ascii=False, indent=4)
+
 
 if __name__ == "__main__":
     main()

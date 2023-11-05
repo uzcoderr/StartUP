@@ -1,74 +1,93 @@
-import json
 import re
+import json
+import threading
+from collections import Counter
+from tqdm import tqdm
 
-import nltk
 from deep_translator import GoogleTranslator
 from googletrans import Translator
-from collections import defaultdict
+from nltk.corpus import wordnet
 
 
-class WordTranslation:
-    def __init__(self, word, repeat, translate, is_english):
-        self.word = word
-        self.repeat = repeat
-        self.translate = translate
-        self.is_english = is_english
+def is_english_word(word):
+    return bool(wordnet.synsets(word))
 
 
-def translate_to_uzbek(translator, batch):
-    return GoogleTranslator(source='en', target='uz').translate(batch)
-
-
-def process_text_file(input_file):
-    word_count = defaultdict(int)
-
+def count_word_occurrences(input_file, output_file):
     with open(input_file, 'r') as file:
         text = file.read()
 
-    # Split the text into words
-    words = re.findall(r'\b\w+\b', text.lower())
+    # Define the characters to remove and create a regular expression pattern
+    characters_to_remove = r'[!?<>,-:->\d]'
 
+    # Use re.sub to replace characters and numbers with spaces
+    text_cleaned = re.sub(characters_to_remove, '', text)
+
+    # Tokenize the cleaned text into words
+    words = text_cleaned.split()
+
+    # Use Counter to count word occurrences
+    word_count = Counter(words)
+
+    result = {
+        "word_count": word_count
+    }
+    removeWords(result)
+
+
+def removeWords(data):
+    word_count_dict = data.get("word_count", {})
+    english_word_count = {word: count for word, count in word_count_dict.items() if is_english_word(word)}
+    data["word_count"] = english_word_count
+    translate(data)
+
+
+class TranslationEntry:
+    def __init__(self, word, number, translation):
+        self.word = word
+        self.number = number
+        self.translation = translation
+
+
+def translate_word(word, number, translator, results):
+    translation = GoogleTranslator(source='en', target='uz').translate(word)
+    entry = TranslationEntry(word, number, translation)
+    results.append(entry)
+
+
+def translate(data):
     translator = Translator()
-    batch_size = 50
-    translations = []
+    print('Translating...')
 
-    for word in words:
-        is_english = is_english_word(word)
+    translated_entries = []
+    threads = []
+    total_words = len(data['word_count'])
 
-        if is_english:
-            word_count[word] += 1
-            translations.append((word, None))
+    with tqdm(total=total_words) as pbar:
+        for word, number in data['word_count'].items():
+            thread = threading.Thread(target=translate_word, args=(word, number, translator, translated_entries))
+            threads.append(thread)
+            thread.start()
 
-            if len(translations) == batch_size:
-                batch_words, _ = zip(*translations)
-                translated_batch = translate_to_uzbek(translator, ' '.join(batch_words))
+            # Update the progress bar with each completed translation
+            pbar.update(1)
 
-                for i, translation in enumerate(translated_batch.split()):
-                    translations[i] = (translations[i][0], translation)
+    for word, number in data['word_count'].items():
+        thread = threading.Thread(target=translate_word, args=(word, number, translator, translated_entries))
+        threads.append(thread)
+        thread.start()
 
-                write_translations_to_json(translations)
-                translations = []
+    for thread in threads:
+        thread.join()  # Wait for all threads to finish
 
-    if translations:
-        batch_words, _ = zip(*translations)
-        translated_batch = translate_to_uzbek(translator, ' '.join(batch_words))
+    output_data = [{'word': entry.word, 'number': entry.number, 'translate': entry.translation} for entry in
+                   translated_entries]
 
-        for i, translation in enumerate(translated_batch.split()):
-            translations[i] = (translations[i][0], translation)
-
-        write_translations_to_json(translations)
+    with open('output.json', 'w', encoding='utf-8') as json_file:
+        json.dump(output_data, json_file, ensure_ascii=False, indent=4)
 
 
-def write_translations_to_json(translations):
-    translated_words = [WordTranslation(word, 1, translation, True) for word, translation in translations]
-
-    with open('word_translations.json', 'a', encoding='utf-8') as json_file:
-        json.dump([word.__dict__ for word in translated_words], json_file, ensure_ascii=False, indent=4)
-
-def is_english_word(word):
-    english_words = set(nltk.corpus.words.words())
-    return word in english_words
-
-if __name__ == "__main__":
-    input_file = "words.txt"
-    process_text_file(input_file)
+if __name__ == '__main__':
+    input_file = 'words.txt'
+    output_file = 'output.json'
+    count_word_occurrences(input_file, output_file)

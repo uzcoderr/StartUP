@@ -28,6 +28,6 @@ def count_word_occurrences(input_file, output_file):
 
 
 if __name__ == '__main__':
-    input_file = 'words.txt'
-    output_file = 'output.json'
+    input_file = input('Name file: ')
+    output_file = input('New name: ')
     count_word_occurrences(input_file, output_file)

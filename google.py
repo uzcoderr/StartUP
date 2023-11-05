@@ -1,45 +1,78 @@
+import re
 import json
-import nltk
+import threading
+from collections import Counter
 from nltk.corpus import wordnet
-from deep_translator import GoogleTranslator
-# pip install google_trans_new
-# Download the WordNet dataset (if not already downloaded)
+from tqdm import tqdm
 
-# Load the JSON object
-with open('output.json', 'r') as file:
-    data = json.load(file)
-
-# Extract the word count dictionary
-word_count_dict = data.get("word_count", {})
+import translator
+from trasnlate_and_add import translate_word
 
 
-# Function to check if a word is an English word
 def is_english_word(word):
     return bool(wordnet.synsets(word))
 
 
-# Function to translate English word to Uzbek
-# Function to translate English word to Uzbek with error handling
-def translate_to_uzbek(word):
-    x = word
-    try:
-        x = GoogleTranslator(source='en', target='uz').translate(x)
-        print(x)
-        return x  # Return the original word if translation is not available
-    except Exception as e:
-        print(f"Translation error: {e}")
-        return x  # Return the original word on error
+def count_word_occurrences(input_file, output_file):
+    print('count_word_occurrences')
+    with open(input_file, 'r') as file:
+        text = file.read()
+
+    # Define the characters to remove and create a regular expression pattern
+    characters_to_remove = r'[!?<>,-:->\d]'
+
+    # Use re.sub to replace characters and numbers with spaces
+    text_cleaned = re.sub(characters_to_remove, '', text)
+
+    # Tokenize the cleaned text into words
+    words = text_cleaned.split()
+
+    # Use Counter to count word occurrences
+    word_count = Counter(words)
+
+    result = {
+        "word_count": word_count
+    }
+    removeWords(result)
 
 
-# Translate and update the word count dictionary
-uzbek_word_count = {word: count for word, count in word_count_dict.items() if is_english_word(word)}
-uzbek_word_count = {word: count for word, count in uzbek_word_count.items() if translate_to_uzbek(word) != word}
+def removeWords(data):
+    print('removeWords')
+    word_count_dict = data.get("word_count", {})
+    english_word_count = {word: count for word, count in word_count_dict.items() if is_english_word(word)}
+    data["word_count"] = english_word_count
+    wordsTranslator(data)
 
-# Update the JSON object with the translated word count dictionary
-data["word_count"] = uzbek_word_count
 
-# Write the updated JSON object back to the same file
-with open('output.json', 'w') as file:
-    json.dump(data, file, ensure_ascii=False, indent=2)
+def wordsTranslator(data):
+    print('Translating...')
+    word_count_dict = data.get("word_count", {})
+    progress_bar = tqdm(word_count_dict.items(), desc="Processing", unit=" word")
 
-print("Filtered English words in 'word_count' have been translated to Uzbek and written to output.json.")
+    english_word_count = {}
+
+    for word, count in progress_bar:
+        if is_english_word(word):
+            english_word_count[word] = count
+    translated_entries = []
+    threads = []
+
+    for word, number in data['word_count'].items():
+        thread = threading.Thread(target=translate_word, args=(word, number, translator, translated_entries))
+        threads.append(thread)
+        thread.start()
+
+    for thread in threads:
+        thread.join()  # Wait for all threads to finish
+
+    output_data = [{'word': entry.word, 'number': entry.number, 'translate': entry.translation} for entry in translated_entries]
+
+    with open('output.json', 'w', encoding='utf-8') as json_file:
+        json.dump(output_data, json_file, ensure_ascii=False, indent=4)
+
+
+if __name__ == '__main__':
+    input_file = 'words.txt'
+    output_file = 'output.json'
+    print('started')
+    count_word_occurrences(input_file, output_file)

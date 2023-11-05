@@ -13,7 +13,7 @@ pip install deep-translator
 
 
 ```bash
-python main.py 
+python first.py 
 ```
 ```bash
 python remove_words.py 

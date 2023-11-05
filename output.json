@@ -1,1321 +1,3427 @@
-{
-  "word_count": {
-    "Surprise": 2,
-    "Do": 12,
-    "not": 33,
-    "interrupt": 1,
-    "me": 89,
-    "daydreaming": 1,
-    "a": 130,
-    "in": 52,
-    "zone": 1,
-    "leave": 3,
-    "alone": 3,
-    "Come": 44,
-    "on": 93,
-    "Just": 12,
-    "wanted": 3,
-    "wish": 6,
-    "happy": 2,
-    "birthday": 5,
-    "man": 7,
-    "thanks": 5,
-    "I": 210,
-    "got": 39,
-    "stuck": 1,
-    "teeth": 2,
-    "driving": 1,
-    "crazy": 5,
-    "Can": 9,
-    "help": 7,
-    "Please": 8,
-    "came": 2,
-    "right": 31,
-    "place": 8,
-    "friend": 10,
-    "DDS": 1,
-    "is": 83,
-    "house": 3,
-    "hop": 1,
-    "top": 4,
-    "sterilized": 1,
-    "examination": 1,
-    "table": 1,
-    "may": 2,
-    "see": 19,
-    "left": 5,
-    "Oh": 51,
-    "sorry": 5,
-    "Okay": 15,
-    "just": 42,
-    "talk": 6,
-    "mouth": 2,
-    "full": 1,
-    "Right": 9,
-    "here": 48,
-    "doing": 9,
-    "there": 24,
-    "Happy": 1,
-    "put": 2,
-    "it": 118,
-    "behind": 3,
-    "tooth": 1,
-    "all": 28,
-    "even": 7,
-    "shelf": 1,
-    "yet": 2,
-    "Here": 7,
-    "Check": 4,
-    "out": 37,
-    "Look": 19,
-    "at": 23,
-    "snowing": 1,
-    "Ten": 1,
-    "years": 3,
-    "old": 8,
-    "A": 9,
-    "decade": 1,
-    "Double": 1,
-    "digits": 1,
-    "big": 10,
-    "like": 42,
-    "No": 50,
-    "no": 31,
-    "great": 19,
-    "hate": 4,
-    "gotten": 1,
-    "alarm": 1,
-    "clock": 2,
-    "seller": 1,
-    "really": 10,
-    "another": 4,
-    "come": 16,
-    "gone": 6,
-    "still": 6,
-    "same": 1,
-    "thing": 11,
-    "Stand": 1,
-    "over": 16,
-    "Trot": 1,
-    "Eat": 1,
-    "some": 14,
-    "grass": 2,
-    "Walk": 1,
-    "back": 25,
-    "problem": 2,
-    "Maybe": 5,
-    "go": 40,
-    "law": 2,
-    "school": 1,
-    "need": 8,
-    "break": 3,
-    "boring": 1,
-    "routine": 1,
-    "Throw": 1,
-    "act": 3,
-    "Who": 6,
-    "knows": 1,
-    "do": 37,
-    "Make": 2,
-    "up": 38,
-    "as": 5,
-    "along": 2,
-    "Ad": 1,
-    "Improvise": 1,
-    "On": 2,
-    "fly": 3,
-    "Boom": 1,
-    "boom": 2,
-    "Really": 5,
-    "know": 41,
-    "make": 14,
-    "fresh": 7,
-    "Fresh": 1,
-    "Works": 1,
-    "people": 26,
-    "love": 13,
-    "fun": 8,
-    "time": 8,
-    "Up": 1,
-    "open": 3,
-    "day": 5,
-    "Friday": 1,
-    "Field": 1,
-    "trip": 3,
-    "Yes": 8,
-    "field": 2,
-    "get": 22,
-    "ten": 3,
-    "more": 8,
-    "minutes": 1,
-    "Wake": 5,
-    "Rise": 2,
-    "shine": 1,
-    "fabulous": 1,
-    "morning": 2,
-    "Big": 2,
-    "Apple": 1,
-    "Not": 8,
-    "calling": 2,
-    "sick": 1,
-    "found": 2,
-    "brown": 1,
-    "spot": 3,
-    "shoulder": 1,
-    "See": 5,
-    "head": 9,
-    "filthy": 1,
-    "monkey": 3,
-    "going": 39,
-    "be": 36,
-    "Straight": 1,
-    "ground": 1,
-    "Tasty": 1,
-    "gentlemen": 2,
-    "children": 1,
-    "Central": 7,
-    "Park": 4,
-    "Zoo": 4,
-    "proudly": 2,
-    "Show": 1,
-    "cat": 21,
-    "king": 11,
-    "New": 17,
-    "York": 16,
-    "i": 1,
-    "lion": 9,
-    "showtime": 3,
-    "Gather": 1,
-    "around": 9,
-    "show": 3,
-    "about": 18,
-    "start": 1,
-    "zebra": 4,
-    "taking": 1,
-    "care": 5,
-    "biz": 1,
-    "smile": 2,
-    "wave": 5,
-    "boys": 8,
-    "Smile": 2,
-    "progress": 1,
-    "report": 2,
-    "only": 3,
-    "feet": 6,
-    "main": 1,
-    "sewer": 1,
-    "line": 1,
-    "bad": 11,
-    "news": 1,
-    "broken": 1,
-    "last": 1,
-    "shovel": 1,
-    "Rico": 6,
-    "litter": 1,
-    "patrol": 1,
-    "shovels": 1,
-    "find": 9,
-    "popsicle": 1,
-    "sticks": 1,
-    "want": 16,
-    "risk": 1,
-    "Skipper": 4,
-    "look": 14,
-    "cute": 3,
-    "cuddly": 3,
-    "Private": 2,
-    "Today": 1,
-    "blow": 1,
-    "dump": 3,
-    "penguin": 1,
-    "Yeah": 15,
-    "Animal": 1,
-    "Planet": 1,
-    "Well": 17,
-    "folks": 1,
-    "Thanks": 9,
-    "coming": 8,
-    "hope": 1,
-    "thought": 6,
-    "was": 16,
-    "week": 2,
-    "In": 1,
-    "fact": 1,
-    "whole": 2,
-    "life": 7,
-    "Three": 1,
-    "hundred": 1,
-    "days": 3,
-    "year": 1,
-    "including": 1,
-    "Christmas": 1,
-    "Hanukkah": 1,
-    "Halloween": 1,
-    "Kwanzaa": 1,
-    "forget": 2,
-    "never": 5,
-    "spay": 1,
-    "or": 4,
-    "neuter": 1,
-    "pets": 1,
-    "tip": 1,
-    "broke": 2,
-    "quadruped": 1,
-    "continent": 1,
-    "Manhattan": 1,
-    "Hoover": 1,
-    "Dam": 1,
-    "Abort": 1,
-    "Dive": 3,
-    "tux": 1,
-    "Wait": 11,
-    "minute": 2,
-    "are": 54,
-    "guys": 15,
-    "digging": 1,
-    "Antarctica": 2,
-    "keep": 5,
-    "secret": 1,
-    "monochromatic": 3,
-    "ever": 10,
-    "any": 7,
-    "penguins": 3,
-    "running": 4,
-    "free": 3,
-    "City": 1,
-    "course": 4,
-    "belong": 2,
-    "natural": 3,
-    "kind": 11,
-    "conspiracy": 1,
-    "spaces": 3,
-    "wild": 21,
-    "actually": 2,
-    "sounds": 1,
-    "hold": 3,
-    "Tell": 2,
-    "sir": 3,
-    "final": 1,
-    "appearance": 1,
-    "Thank": 9,
-    "very": 7,
-    "much": 5,
-    "crowd": 1,
-    "Give": 5,
-    "hand": 5,
-    "too": 10,
-    "Too": 1,
-    "Underpants": 1,
-    "home": 7,
-    "safe": 3,
-    "website": 1,
-    "hour": 1,
-    "Cam": 1,
-    "Watch": 1,
-    "sleep": 2,
-    "heaven": 3,
-    "rip": 1,
-    "Open": 2,
-    "thermometer": 2,
-    "give": 8,
-    "personal": 1,
-    "first": 3,
-    "rectal": 1,
-    "Mother": 1,
-    "miss": 2,
-    "boy": 2,
-    "Get": 15,
-    "cake": 1,
-    "live": 5,
-    "smell": 1,
-    "one": 10,
-    "say": 10,
-    "now": 13,
-    "embarrassing": 1,
-    "talking": 3,
-    "worked": 3,
-    "tell": 12,
-    "telling": 2,
-    "luck": 6,
-    "blab": 1,
-    "But": 4,
-    "shut": 9,
-    "us": 23,
-    "happen": 2,
-    "wished": 1,
-    "told": 5,
-    "Are": 3,
-    "nuts": 1,
-    "worst": 1,
-    "idea": 3,
-    "heard": 4,
-    "unsanitary": 1,
-    "So": 14,
-    "why": 5,
-    "psychotic": 3,
-    "imagine": 1,
-    "nature": 1,
-    "Back": 3,
-    "roots": 1,
-    "Clean": 1,
-    "air": 2,
-    "hear": 8,
-    "Connecticut": 5,
-    "Grand": 7,
-    "Then": 4,
-    "take": 10,
-    "train": 5,
-    "North": 1,
-    "hypothetically": 1,
-    "have": 45,
-    "offer": 1,
-    "disease": 1,
-    "none": 1,
-    "highly": 1,
-    "refined": 1,
-    "type": 2,
-    "food": 2,
-    "might": 3,
-    "steak": 10,
-    "He": 17,
-    "mean": 12,
-    "baby": 8,
-    "bother": 1,
-    "outside": 1,
-    "zoo": 7,
-    "subject": 1,
-    "little": 25,
-    "party": 4,
-    "It": 7,
-    "eating": 2,
-    "Go": 7,
-    "pep": 1,
-    "already": 2,
-    "gave": 3,
-    "snow": 1,
-    "globe": 1,
-    "can": 14,
-    "getting": 6,
-    "late": 2,
-    "guess": 3,
-    "best": 5,
-    "All": 7,
-    "Night": 2,
-    "better": 5,
-    "did": 18,
-    "Even": 1,
-    "star": 3,
-    "Helicopter": 1,
-    "Buddy": 1,
-    "Listen": 1,
-    "has": 5,
-    "think": 16,
-    "greener": 1,
-    "somewhere": 1,
-    "half": 1,
-    "black": 4,
-    "white": 4,
-    "stripes": 6,
-    "thinking": 8,
-    "song": 4,
-    "yes": 1,
-    "wonderful": 2,
-    "familiar": 2,
-    "listening": 1,
-    "leaving": 3,
-    "part": 2,
-    "funny": 1,
-    "words": 6,
-    "Two": 2,
-    "Shut": 2,
-    "sleeping": 1,
-    "nocturnal": 1,
-    "knock": 1,
-    "off": 9,
-    "pal": 1,
-    "army": 1,
-    "mess": 3,
-    "Howard": 1,
-    "Mr": 10,
-    "Grumpy": 1,
-    "Stripes": 1,
-    "team": 2,
-    "two": 6,
-    "sure": 5,
-    "doubt": 2,
-    "by": 9,
-    "Good": 7,
-    "together": 5,
-    "straight": 3,
-    "shot": 2,
-    "down": 12,
-    "Fifth": 1,
-    "Avenue": 1,
-    "grab": 1,
-    "north": 1,
-    "will": 12,
-    "joking": 3,
-    "Like": 3,
-    "had": 4,
-    "worried": 2,
-    "well": 2,
-    "hit": 4,
-    "sack": 2,
-    "rest": 1,
-    "voice": 2,
-    "tomorrow": 2,
-    "Day": 1,
-    "Have": 2,
-    "roar": 3,
-    "extra": 1,
-    "loud": 1,
-    "jolt": 1,
-    "night": 2,
-    "forgot": 1,
-    "turn": 1,
-    "ambience": 1,
-    "again": 11,
-    "worry": 5,
-    "cool": 5,
-    "Much": 1,
-    "filet": 2,
-    "fat": 2,
-    "edges": 1,
-    "sweet": 2,
-    "juicy": 2,
-    "rare": 1,
-    "delicacy": 1,
-    "suck": 2,
-    "thumb": 2,
-    "bladder": 1,
-    "infection": 1,
-    "every": 2,
-    "hours": 3,
-    "pee": 1,
-    "looked": 1,
-    "pen": 1,
-    "usually": 1,
-    "but": 8,
-    "Gone": 1,
-    "long": 6,
-    "he": 14,
-    "been": 13,
-    "working": 3,
-    "fit": 4,
-    "sense": 1,
-    "call": 5,
-    "somebody": 1,
-    "Hello": 6,
-    "Missing": 1,
-    "Animals": 1,
-    "hurry": 1,
-    "lost": 5,
-    "probably": 3,
-    "way": 9,
-    "second": 3,
-    "mad": 1,
-    "transferred": 3,
-    "good": 20,
-    "bite": 3,
-    "feeds": 1,
-    "after": 5,
-    "stop": 4,
-    "making": 2,
-    "biggest": 1,
-    "mistake": 2,
-    "cold": 1,
-    "confused": 1,
-    "Poor": 1,
-    "guy": 2,
-    "One": 1,
-    "wait": 7,
-    "case": 3,
-    "comes": 2,
-    "an": 11,
-    "intervention": 1,
-    "fastest": 2,
-    "Lexington": 2,
-    "goes": 2,
-    "ways": 1,
-    "lights": 1,
-    "Tom": 1,
-    "Wolfe": 1,
-    "speaking": 1,
-    "Lincoln": 1,
-    "Center": 1,
-    "throw": 1,
-    "taken": 1,
-    "Station": 3,
-    "said": 8,
-    "room": 2,
-    "nifty": 1,
-    "sinks": 1,
-    "wash": 1,
-    "Free": 1,
-    "mints": 1,
-    "urgent": 1,
-    "mission": 1,
-    "save": 1,
-    "throwing": 1,
-    "away": 5,
-    "Now": 17,
-    "asked": 1,
-    "understand": 1,
-    "says": 1,
-    "so": 10,
-    "then": 3,
-    "sang": 1,
-    "West": 1,
-    "nd": 1,
-    "Vanderbilt": 1,
-    "Building": 1,
-    "far": 2,
-    "lot": 3,
-    "officer": 1,
-    "light": 1,
-    "Freak": 1,
-    "Did": 4,
-    "front": 1,
-    "shoot": 1,
-    "Negative": 1,
-    "backup": 1,
-    "constipation": 1,
-    "grand": 1,
-    "central": 1,
-    "Move": 1,
-    "aside": 1,
-    "emergency": 3,
-    "situation": 4,
-    "chill": 1,
-    "Upstairs": 1,
-    "downstairs": 1,
-    "Lady": 2,
-    "wrong": 3,
-    "grip": 1,
-    "kitty": 2,
-    "missed": 1,
-    "express": 1,
-    "Looks": 3,
-    "local": 1,
-    "okay": 13,
-    "am": 8,
-    "glad": 1,
-    "were": 7,
-    "fine": 8,
-    "wondering": 1,
-    "friends": 3,
-    "deal": 2,
-    "Guys": 4,
-    "ratted": 1,
-    "Hold": 8,
-    "fire": 5,
-    "Cute": 2,
-    "fling": 1,
-    "Man": 6,
-    "evening": 1,
-    "officers": 1,
-    "putting": 1,
-    "Little": 2,
-    "internal": 1,
-    "went": 2,
-    "Happens": 1,
-    "city": 2,
-    "gets": 1,
-    "Went": 1,
-    "cuckoo": 2,
-    "shush": 2,
-    "handle": 2,
-    "please": 4,
-    "happened": 5,
-    "harm": 1,
-    "foul": 1,
-    "matter": 3,
-    "feel": 9,
-    "weird": 1,
-    "dramatic": 1,
-    "incident": 1,
-    "iis": 1,
-    "example": 1,
-    "animal": 1,
-    "rights": 1,
-    "wackos": 1,
-    "shouting": 1,
-    "clearly": 2,
-    "sent": 2,
-    "lives": 4,
-    "freedom": 1,
-    "awake": 2,
-    "box": 3,
-    "transfer": 4,
-    "breathe": 4,
-    "Darkness": 1,
-    "creeping": 1,
-    "Walls": 1,
-    "closing": 1,
-    "Talk": 1,
-    "buddy": 2,
-    "loving": 3,
-    "sound": 3,
-    "crates": 1,
-    "Sleeping": 1,
-    "knocks": 1,
-    "Is": 6,
-    "often": 1,
-    "doze": 1,
-    "while": 1,
-    "MRI": 2,
-    "CAT": 2,
-    "scan": 2,
-    "appointment": 1,
-    "Goldberg": 1,
-    "There": 3,
-    "prescriptions": 1,
-    "filled": 1,
-    "other": 2,
-    "afford": 1,
-    "medical": 1,
-    "HMO": 1,
-    "Take": 5,
-    "easy": 3,
-    "ruined": 4,
-    "fail": 1,
-    "fault": 4,
-    "kidding": 2,
-    "ticked": 1,
-    "bit": 5,
-    "who": 5,
-    "ask": 2,
-    "does": 5,
-    "point": 2,
-    "stay": 2,
-    "suggested": 1,
-    "Leave": 1,
-    "Besides": 2,
-    "Does": 2,
-    "nauseous": 3,
-    "always": 5,
-    "Progress": 1,
-    "older": 1,
-    "code": 2,
-    "higher": 1,
-    "mammal": 1,
-    "read": 3,
-    "though": 2,
-    "Ship": 1,
-    "Kenya": 1,
-    "Wildlife": 1,
-    "preserve": 1,
-    "Africa": 2,
-    "greatest": 1,
-    "Earth": 1,
-    "listen": 1,
-    "Loved": 2,
-    "civil": 1,
-    "loved": 1,
-    "real": 7,
-    "whoop": 1,
-    "both": 1,
-    "knew": 1,
-    "cancel": 1,
-    "each": 1,
-    "nothing": 3,
-    "Stop": 4,
-    "helping": 1,
-    "Status": 1,
-    "codes": 1,
-    "excuses": 1,
-    "results": 1,
-    "Navigation": 1,
-    "Let": 5,
-    "tin": 1,
-    "turned": 1,
-    "Kelly": 1,
-    "Matt": 1,
-    "Al": 3,
-    "Somebody": 4,
-    "Hang": 2,
-    "sec": 1,
-    "Relax": 1,
-    "Giraffe": 1,
-    "corner": 2,
-    "pocket": 1,
-    "Left": 3,
-    "later": 2,
-    "sugar": 1,
-    "honey": 1,
-    "ice": 1,
-    "tea": 1,
-    "Martin": 1,
-    "kill": 7,
-    "run": 6,
-    "Calm": 3,
-    "Safe": 1,
-    "exactly": 1,
-    "White": 1,
-    "sandy": 1,
-    "beaches": 1,
-    "cleverly": 1,
-    "simulated": 1,
-    "environment": 2,
-    "enclosures": 1,
-    "Complete": 1,
-    "fake": 1,
-    "rocks": 1,
-    "Wow": 1,
-    "looks": 1,
-    "worse": 2,
-    "hang": 2,
-    "Strangle": 1,
-    "bury": 1,
-    "dig": 1,
-    "clone": 1,
-    "clones": 1,
-    "checked": 1,
-    "straightened": 1,
-    "compete": 1,
-    "smug": 1,
-    "grin": 1,
-    "done": 4,
-    "business": 1,
-    "honestly": 1,
-    "intended": 1,
-    "shushed": 1,
-    "music": 1,
-    "honcho": 1,
-    "sidewalk": 1,
-    "nice": 3,
-    "First": 2,
-    "plan": 14,
-    "animals": 3,
-    "Next": 1,
-    "flowers": 1,
-    "hair": 1,
-    "hugging": 1,
-    "grows": 1,
-    "impression": 1,
-    "Smiles": 1,
-    "smiling": 1,
-    "gas": 3,
-    "California": 1,
-    "Dude": 1,
-    "Puffy": 1,
-    "iI": 5,
-    "move": 21,
-    "girls": 2,
-    "King": 4,
-    "sassy": 1,
-    "saw": 1,
-    "blatant": 1,
-    "health": 1,
-    "violations": 1,
-    "physically": 6,
-    "Woman": 1,
-    "brought": 2,
-    "chips": 1,
-    "dip": 1,
-    "missing": 1,
-    "attacking": 3,
-    "Run": 4,
-    "hungry": 5,
-    "eat": 4,
-    "waiting": 1,
-    "appreciate": 1,
-    "hi": 1,
-    "looking": 3,
-    "supervisor": 1,
-    "sitting": 1,
-    "beach": 1,
-    "bothered": 1,
-    "things": 3,
-    "normally": 1,
-    "sort": 2,
-    "major": 1,
-    "screwup": 1,
-    "administrative": 1,
-    "offices": 1,
-    "Spider": 3,
-    "scared": 3,
-    "Smack": 1,
-    "Whip": 2,
-    "aliens": 2,
-    "Savage": 1,
-    "savage": 3,
-    "future": 1,
-    "women": 1,
-    "precious": 1,
-    "metals": 1,
-    "near": 1,
-    "hiding": 1,
-    "Be": 2,
-    "quiet": 1,
-    "Including": 1,
-    "noise": 1,
-    "Enough": 3,
-    "stick": 3,
-    "spiders": 1,
-    "savages": 1,
-    "Tonight": 1,
-    "die": 3,
-    "devised": 1,
-    "cunning": 1,
-    "test": 1,
-    "killers": 1,
-    "Hi": 2,
-    "let": 2,
-    "handles": 1,
-    "Sorry": 2,
-    "silly": 2,
-    "poor": 1,
-    "scare": 1,
-    "tat": 1,
-    "reasonable": 1,
-    "distance": 1,
-    "sweetest": 1,
-    "dunk": 1,
-    "coffee": 1,
-    "bunch": 3,
-    "pansies": 3,
-    "hairdo": 1,
-    "suspicious": 1,
-    "Nonsense": 1,
-    "meet": 1,
-    "Presenting": 1,
-    "royal": 2,
-    "highness": 2,
-    "illustrious": 2,
-    "XIII": 1,
-    "lord": 1,
-    "lemurs": 1,
-    "Hooray": 2,
-    "style": 1,
-    "guinea": 1,
-    "pigs": 1,
-    "squirrel": 2,
-    "Welcome": 3,
-    "giant": 2,
-    "bask": 1,
-    "glow": 1,
-    "Definitely": 1,
-    "Squirrel": 1,
-    "thank": 2,
-    "enormous": 1,
-    "gratitude": 1,
-    "chasing": 1,
-    "annoy": 1,
-    "trespassing": 1,
-    "interrupting": 1,
-    "parties": 1,
-    "ripping": 1,
-    "limbs": 1,
-    "trying": 1,
-    "Shame": 1,
-    "insulted": 1,
-    "freak": 1,
-    "must": 1,
-    "giants": 6,
-    "hail": 1,
-    "inbreeding": 1,
-    "program": 1,
-    "bozos": 3,
-    "Excuse": 3,
-    "lively": 1,
-    "Only": 1,
-    "dead": 1,
-    "ones": 1,
-    "called": 1,
-    "mud": 1,
-    "hut": 1,
-    "wipe": 2,
-    "leaf": 1,
-    "wipes": 1,
-    "excuse": 1,
-    "moment": 2,
-    "Help": 8,
-    "swimming": 1,
-    "chances": 2,
-    "slim": 2,
-    "try": 3,
-    "swim": 1,
-    "Nature": 1,
-    "obviously": 1,
-    "purpose": 1,
-    "As": 2,
-    "soon": 1,
-    "realize": 1,
-    "born": 2,
-    "bet": 1,
-    "sushi": 1,
-    "breakfast": 1,
-    "doomed": 2,
-    "forsaken": 1,
-    "island": 5,
-    "being": 1,
-    "mind": 3,
-    "unsound": 1,
-    "body": 1,
-    "divided": 1,
-    "estate": 1,
-    "equally": 1,
-    "three": 1,
-    "latrine": 2,
-    "Nice": 1,
-    "work": 1,
-    "Outdoor": 1,
-    "plumbing": 1,
-    "grave": 2,
-    "end": 1,
-    "new": 1,
-    "beginning": 1,
-    "abused": 1,
-    "power": 2,
-    "supposed": 1,
-    "Remember": 1,
-    "made": 1,
-    "fences": 1,
-    "schedules": 1,
-    "beautiful": 1,
-    "Baby": 1,
-    "enough": 1,
-    "side": 15,
-    "prance": 1,
-    "skip": 1,
-    "magical": 1,
-    "pixie": 1,
-    "horse": 1,
-    "whatever": 1,
-    "mine": 2,
-    "having": 2,
-    "surviving": 1,
-    "stinks": 1,
-    "Jersey": 1,
-    "cesspool": 1,
-    "rescued": 3,
-    "face": 2,
-    "sees": 1,
-    "helpless": 1,
-    "standing": 1,
-    "pose": 1,
-    "defy": 1,
-    "rescue": 1,
-    "boat": 8,
-    "within": 1,
-    "million": 1,
-    "miles": 1,
-    "ignite": 1,
-    "beacon": 1,
-    "liberty": 2,
-    "awful": 1,
-    "nightmare": 2,
-    "Pretty": 2,
-    "Great": 1,
-    "Idiot": 1,
-    "Why": 2,
-    "borrow": 1,
-    "using": 1,
-    "Liberty": 1,
-    "rub": 1,
-    "Fire": 7,
-    "Jump": 1,
-    "jump": 1,
-    "cats": 1,
-    "land": 1,
-    "Face": 1,
-    "maniac": 1,
-    "burned": 1,
-    "Darn": 2,
-    "calm": 2,
-    "chairs": 1,
-    "tail": 1,
-    "Separate": 1,
-    "presenting": 1,
-    "blah": 7,
-    "curiosity": 1,
-    "guests": 1,
-    "liked": 3,
-    "Before": 1,
-    "met": 1,
-    "compared": 1,
-    "annoying": 1,
-    "remember": 2,
-    "attacked": 1,
-    "eaten": 2,
-    "dreaded": 2,
-    "cookbook": 2,
-    "Quiet": 1,
-    "instant": 1,
-    "genius": 2,
-    "close": 1,
-    "protecting": 1,
-    "Me": 3,
-    "wonder": 1,
-    "maybe": 2,
-    "dude": 1,
-    "gives": 1,
-    "raise": 1,
-    "Therefore": 1,
-    "heinous": 1,
-    "comment": 1,
-    "stricken": 1,
-    "record": 1,
-    "wake": 2,
-    "paradise": 1,
-    "cookie": 1,
-    "chance": 2,
-    "enjoy": 1,
-    "tired": 2,
-    "Think": 1,
-    "pizza": 1,
-    "Beg": 1,
-    "pardon": 1,
-    "jerk": 1,
-    "Wild": 1,
-    "load": 1,
-    "Mi": 1,
-    "Very": 1,
-    "impressive": 1,
-    "drink": 1,
-    "seawater": 1,
-    "swallow": 1,
-    "temporary": 1,
-    "till": 2,
-    "goodness": 1,
-    "Fun": 1,
-    "Side": 1,
-    "Special": 1,
-    "Seaweed": 2,
-    "unbelievable": 1,
-    "use": 1,
-    "lemon": 1,
-    "billions": 2,
-    "helicopters": 1,
-    "shooting": 1,
-    "Quick": 1,
-    "thick": 1,
-    "promise": 1,
-    "kills": 1,
-    "Sweet": 1,
-    "dreams": 1,
-    "Thirty": 1,
-    "Dilemma": 1,
-    "solved": 1,
-    "grooming": 2,
-    "tender": 1,
-    "plushy": 1,
-    "tasting": 1,
-    "Suit": 1,
-    "Soon": 1,
-    "excellent": 1,
-    "action": 1,
-    "deep": 2,
-    "sucks": 1,
-    "shining": 1,
-    "built": 1,
-    "forest": 1,
-    "alarmed": 1,
-    "freaks": 1,
-    "While": 1,
-    "asleep": 1,
-    "simply": 1,
-    "took": 1,
-    "Madagascar": 1,
-    "mural": 1,
-    "fella": 1,
-    "view": 1,
-    "version": 1,
-    "once": 1,
-    "park": 1,
-    "blood": 2,
-    "pumping": 1,
-    "lungs": 1,
-    "breathing": 1,
-    "Want": 1,
-    "play": 1,
-    "Got": 4,
-    "win": 2,
-    "groove": 1,
-    "low": 1,
-    "energy": 1,
-    "Put": 1,
-    "rubber": 1,
-    "road": 1,
-    "inner": 1,
-    "build": 1,
-    "steam": 1,
-    "juke": 1,
-    "quick": 1,
-    "pastrami": 1,
-    "rye": 1,
-    "deli": 1,
-    "sky": 1,
-    "different": 1,
-    "Kind": 1,
-    "charged": 1,
-    "yeah": 3,
-    "nowhere": 1,
-    "seen": 1,
-    "Feel": 1,
-    "Ladies": 1,
-    "Primates": 1,
-    "ages": 1,
-    "presents": 1,
-    "E": 1,
-    "flat": 1,
-    "fellas": 1,
-    "crown": 4,
-    "before": 2,
-    "Break": 1,
-    "biting": 1,
-    "butt": 3,
-    "dinner": 1,
-    "dumb": 1,
-    "simple": 1,
-    "buttocks": 1,
-    "nibble": 1,
-    "brilliant": 1,
-    "failed": 2,
-    "hunting": 1,
-    "machine": 1,
-    "eats": 1,
-    "admit": 1,
-    "gobble": 1,
-    "mouths": 1,
-    "belongs": 1,
-    "own": 1,
-    "By": 2,
-    "vested": 1,
-    "jungle": 1,
-    "eye": 1,
-    "Excellent": 1,
-    "true": 1,
-    "monster": 5,
-    "tough": 1,
-    "gritty": 1,
-    "adaptable": 1,
-    "lay": 1,
-    "flag": 3,
-    "Over": 3,
-    "lift": 1,
-    "Hurry": 1,
-    "Lift": 1,
-    "neck": 2,
-    "Steady": 1,
-    "hurts": 1,
-    "turning": 1,
-    "hears": 1,
-    "snap": 1,
-    "ma": 1,
-    "killed": 2,
-    "ate": 1,
-    "livers": 1,
-    "doll": 1,
-    "slow": 1,
-    "lifeboat": 1,
-    "China": 1,
-    "danger": 1,
-    "job": 1,
-    "log": 1,
-    "Embarking": 1,
-    "hostile": 1,
-    "hearts": 1,
-    "minds": 1,
-    "natives": 1,
-    "special": 1,
-    "tactical": 1,
-    "equipment": 1,
-    "extreme": 1,
-    "peril": 1,
-    "survive": 1,
-    "Snap": 1,
-    "civilization": 1,
-    "used": 1,
-    "Stay": 1,
-    "hurt": 1,
-    "sing": 2,
-    "halt": 1,
-    "ooh": 1,
-    "many": 1,
-    "pleasure": 1,
-    "serving": 1,
-    "Mine": 2,
-    "giving": 1,
-    "almost": 1,
-    "heart": 2,
-    "attack": 1,
-    "sneak": 1,
-    "beasts": 1,
-    "scary": 1,
-    "Fear": 1,
-    "Savagery": 1,
-    "beyond": 1,
-    "comprehension": 1,
-    "young": 1,
-    "cop": 1,
-    "territory": 1,
-    "Understand": 1,
-    "turf": 1,
-    "clever": 2,
-    "Time": 1,
-    "robot": 2,
-    "super": 1,
-    "Compute": 1,
-    "compute": 1,
-    "lunch": 1,
-    "Close": 1,
-    "eyes": 1,
-    "closed": 2,
-    "Tighter": 1,
-    "peeking": 1,
-    "hatch": 1,
-    "hole": 1,
-    "chew": 1,
-    "Chew": 1,
-    "Savor": 1,
-    "B": 1,
-    "loves": 1,
-    "fishy": 1,
-    "propose": 1,
-    "toast": 1,
-    "pain": 1,
-    "times": 1,
-    "trust": 1,
-    "proved": 1,
-    "bigger": 2,
-    "stomach": 1,
-    "dream": 1,
-    "orders": 1,
-    "announcement": 1,
-    "After": 1,
-    "profound": 1,
-    "brain": 1,
-    "inside": 1,
-    "decided": 1,
-    "bringing": 1,
-    "peace": 1,
-    "lovely": 1,
-    "parting": 1,
-    "gift": 1,
-    "gecko": 1,
-    "shake": 1,
-    "Bye": 1,
-    "Arrivederci": 1,
-    "crocodile": 1,
-    "arm": 1,
-    "Wave": 1,
-    "Faster": 1,
-    "naughty": 1,
-    "middle": 1,
-    "winter": 1,
-    "rush": 1,
-    "few": 1,
-    "stops": 1,
-    "Paris": 1,
-    "Spain": 1,
-    "bulls": 1,
-    "Fiji": 1,
-    "Canada": 1,
-    "Cheap": 1,
-    "meds": 1,
-    "sometime": 1,
-    "Australia": 1
-  }
-}
+[
+    {
+        "word": "me",
+        "number": 89,
+        "translate": "men"
+    },
+    {
+        "word": "Surprise",
+        "number": 2,
+        "translate": "Ajablanish"
+    },
+    {
+        "word": "happy",
+        "number": 2,
+        "translate": "baxtli"
+    },
+    {
+        "word": "in",
+        "number": 52,
+        "translate": "ichida"
+    },
+    {
+        "word": "alone",
+        "number": 3,
+        "translate": "yolg'iz"
+    },
+    {
+        "word": "wanted",
+        "number": 3,
+        "translate": "xohlagan"
+    },
+    {
+        "word": "teeth",
+        "number": 2,
+        "translate": "tishlar"
+    },
+    {
+        "word": "interrupt",
+        "number": 1,
+        "translate": "xalaqit bermoq"
+    },
+    {
+        "word": "Can",
+        "number": 9,
+        "translate": "mumkin"
+    },
+    {
+        "word": "driving",
+        "number": 1,
+        "translate": "haydash"
+    },
+    {
+        "word": "Do",
+        "number": 12,
+        "translate": "Do"
+    },
+    {
+        "word": "not",
+        "number": 33,
+        "translate": "emas"
+    },
+    {
+        "word": "man",
+        "number": 7,
+        "translate": "kishi"
+    },
+    {
+        "word": "a",
+        "number": 130,
+        "translate": "a"
+    },
+    {
+        "word": "Come",
+        "number": 44,
+        "translate": "Kel"
+    },
+    {
+        "word": "wish",
+        "number": 6,
+        "translate": "tilak"
+    },
+    {
+        "word": "Just",
+        "number": 12,
+        "translate": "Shunchaki"
+    },
+    {
+        "word": "stuck",
+        "number": 1,
+        "translate": "tiqilib qolgan"
+    },
+    {
+        "word": "I",
+        "number": 210,
+        "translate": "I"
+    },
+    {
+        "word": "got",
+        "number": 39,
+        "translate": "oldi"
+    },
+    {
+        "word": "on",
+        "number": 93,
+        "translate": "yoqilgan"
+    },
+    {
+        "word": "daydreaming",
+        "number": 1,
+        "translate": "tush ko'rish"
+    },
+    {
+        "word": "zone",
+        "number": 1,
+        "translate": "zonasi"
+    },
+    {
+        "word": "Please",
+        "number": 8,
+        "translate": "Iltimos"
+    },
+    {
+        "word": "leave",
+        "number": 3,
+        "translate": "tark eting"
+    },
+    {
+        "word": "thanks",
+        "number": 5,
+        "translate": "rahmat"
+    },
+    {
+        "word": "crazy",
+        "number": 5,
+        "translate": "aqldan ozgan"
+    },
+    {
+        "word": "birthday",
+        "number": 5,
+        "translate": "tug'ilgan kun"
+    },
+    {
+        "word": "putting",
+        "number": 1,
+        "translate": "qo'yish"
+    },
+    {
+        "word": "teeth",
+        "number": 2,
+        "translate": "tishlar"
+    },
+    {
+        "word": "getting",
+        "number": 6,
+        "translate": "olish"
+    },
+    {
+        "word": "best",
+        "number": 5,
+        "translate": "eng yaxshi"
+    },
+    {
+        "word": "table",
+        "number": 1,
+        "translate": "stol"
+    },
+    {
+        "word": "usually",
+        "number": 1,
+        "translate": "odatda"
+    },
+    {
+        "word": "somebody",
+        "number": 1,
+        "translate": "kimdir"
+    },
+    {
+        "word": "two",
+        "number": 6,
+        "translate": "ikki"
+    },
+    {
+        "word": "grab",
+        "number": 1,
+        "translate": "tutmoq"
+    },
+    {
+        "word": "Hello",
+        "number": 6,
+        "translate": "Salom"
+    },
+    {
+        "word": "Gone",
+        "number": 1,
+        "translate": "Ketdi"
+    },
+    {
+        "word": "by",
+        "number": 9,
+        "translate": "tomonidan"
+    },
+    {
+        "word": "good",
+        "number": 20,
+        "translate": "yaxshi"
+    },
+    {
+        "word": "north",
+        "number": 1,
+        "translate": "shimol"
+    },
+    {
+        "word": "all",
+        "number": 28,
+        "translate": "hammasi"
+    },
+    {
+        "word": "looked",
+        "number": 1,
+        "translate": "qaradi"
+    },
+    {
+        "word": "sure",
+        "number": 5,
+        "translate": "albatta"
+    },
+    {
+        "word": "grand",
+        "number": 1,
+        "translate": "katta"
+    },
+    {
+        "word": "cat",
+        "number": 21,
+        "translate": "mushuk"
+    },
+    {
+        "word": "fine",
+        "number": 8,
+        "translate": "yaxshi"
+    },
+    {
+        "word": "Cute",
+        "number": 2,
+        "translate": "Yoqimli"
+    },
+    {
+        "word": "harm",
+        "number": 1,
+        "translate": "zarar"
+    },
+    {
+        "word": "evening",
+        "number": 1,
+        "translate": "oqshom"
+    },
+    {
+        "word": "Move",
+        "number": 1,
+        "translate": "Ko'chirish"
+    },
+    {
+        "word": "fling",
+        "number": 1,
+        "translate": "uchirish"
+    },
+    {
+        "word": "Gather",
+        "number": 1,
+        "translate": "Yig'ing"
+    },
+    {
+        "word": "Guys",
+        "number": 4,
+        "translate": "Yigitlar"
+    },
+    {
+        "word": "happened",
+        "number": 5,
+        "translate": "sodir bo'ldi"
+    },
+    {
+        "word": "around",
+        "number": 9,
+        "translate": "atrofida"
+    },
+    {
+        "word": "Park",
+        "number": 4,
+        "translate": "Park"
+    },
+    {
+        "word": "find",
+        "number": 9,
+        "translate": "toping"
+    },
+    {
+        "word": "Man",
+        "number": 6,
+        "translate": "Kishi"
+    },
+    {
+        "word": "central",
+        "number": 1,
+        "translate": "markaziy"
+    },
+    {
+        "word": "popsicle",
+        "number": 1,
+        "translate": "popsicle"
+    },
+    {
+        "word": "knocks",
+        "number": 1,
+        "translate": "taqillatadi"
+    },
+    {
+        "word": "risk",
+        "number": 1,
+        "translate": "xavf"
+    },
+    {
+        "word": "CAT",
+        "number": 2,
+        "translate": "CAT"
+    },
+    {
+        "word": "Skipper",
+        "number": 4,
+        "translate": "Skipper"
+    },
+    {
+        "word": "breathe",
+        "number": 4,
+        "translate": "nafas ol"
+    },
+    {
+        "word": "creeping",
+        "number": 1,
+        "translate": "sudralib yuruvchi"
+    },
+    {
+        "word": "cute",
+        "number": 3,
+        "translate": "yoqimli"
+    },
+    {
+        "word": "officers",
+        "number": 1,
+        "translate": "zobitlar"
+    },
+    {
+        "word": "MRI",
+        "number": 2,
+        "translate": "MRI"
+    },
+    {
+        "word": "look",
+        "number": 14,
+        "translate": "qarang"
+    },
+    {
+        "word": "Talk",
+        "number": 1,
+        "translate": "Gapiring"
+    },
+    {
+        "word": "buddy",
+        "number": 2,
+        "translate": "do'stim"
+    },
+    {
+        "word": "Walls",
+        "number": 1,
+        "translate": "Devorlar"
+    },
+    {
+        "word": "closing",
+        "number": 1,
+        "translate": "yopilish"
+    },
+    {
+        "word": "dump",
+        "number": 3,
+        "translate": "axlatxona"
+    },
+    {
+        "word": "crates",
+        "number": 1,
+        "translate": "qutilar"
+    },
+    {
+        "word": "Animal",
+        "number": 1,
+        "translate": "Hayvon"
+    },
+    {
+        "word": "Is",
+        "number": 6,
+        "translate": "Bu"
+    },
+    {
+        "word": "blow",
+        "number": 1,
+        "translate": "puflamoq"
+    },
+    {
+        "word": "shovels",
+        "number": 1,
+        "translate": "belkuraklar"
+    },
+    {
+        "word": "while",
+        "number": 1,
+        "translate": "esa"
+    },
+    {
+        "word": "creeping",
+        "number": 1,
+        "translate": "sudralib yuruvchi"
+    },
+    {
+        "word": "often",
+        "number": 1,
+        "translate": "tez-tez"
+    },
+    {
+        "word": "sound",
+        "number": 3,
+        "translate": "ovoz"
+    },
+    {
+        "word": "cuddly",
+        "number": 3,
+        "translate": "erinchoq"
+    },
+    {
+        "word": "Today",
+        "number": 1,
+        "translate": "Bugun"
+    },
+    {
+        "word": "doze",
+        "number": 1,
+        "translate": "uyqu"
+    },
+    {
+        "word": "scan",
+        "number": 2,
+        "translate": "skanerlash"
+    },
+    {
+        "word": "Darkness",
+        "number": 1,
+        "translate": "Zulmat"
+    },
+    {
+        "word": "sticks",
+        "number": 1,
+        "translate": "tayoqlar"
+    },
+    {
+        "word": "loving",
+        "number": 3,
+        "translate": "mehribon"
+    },
+    {
+        "word": "Sleeping",
+        "number": 1,
+        "translate": "Uxlash"
+    },
+    {
+        "word": "penguin",
+        "number": 1,
+        "translate": "pingvin"
+    },
+    {
+        "word": "Private",
+        "number": 2,
+        "translate": "Shaxsiy"
+    },
+    {
+        "word": "want",
+        "number": 16,
+        "translate": "istayman"
+    },
+    {
+        "word": "king",
+        "number": 11,
+        "translate": "shoh"
+    },
+    {
+        "word": "Show",
+        "number": 1,
+        "translate": "Ko'rsatish"
+    },
+    {
+        "word": "York",
+        "number": 16,
+        "translate": "York"
+    },
+    {
+        "word": "lion",
+        "number": 9,
+        "translate": "sher"
+    },
+    {
+        "word": "taking",
+        "number": 1,
+        "translate": "olish"
+    },
+    {
+        "word": "i",
+        "number": 1,
+        "translate": "i"
+    },
+    {
+        "word": "showtime",
+        "number": 3,
+        "translate": "namoyish vaqti"
+    },
+    {
+        "word": "smile",
+        "number": 2,
+        "translate": "tabassum"
+    },
+    {
+        "word": "news",
+        "number": 1,
+        "translate": "Yangiliklar"
+    },
+    {
+        "word": "Planet",
+        "number": 1,
+        "translate": "Sayyora"
+    },
+    {
+        "word": "Manhattan",
+        "number": 1,
+        "translate": "Manxetten"
+    },
+    {
+        "word": "days",
+        "number": 3,
+        "translate": "kunlar"
+    },
+    {
+        "word": "Three",
+        "number": 1,
+        "translate": "Uch"
+    },
+    {
+        "word": "life",
+        "number": 7,
+        "translate": "hayot"
+    },
+    {
+        "word": "Dam",
+        "number": 1,
+        "translate": "Dam"
+    },
+    {
+        "word": "tip",
+        "number": 1,
+        "translate": "maslahat"
+    },
+    {
+        "word": "forget",
+        "number": 2,
+        "translate": "unut"
+    },
+    {
+        "word": "Abort",
+        "number": 1,
+        "translate": "Bekor qilish"
+    },
+    {
+        "word": "pets",
+        "number": 1,
+        "translate": "uy hayvonlari"
+    },
+    {
+        "word": "psychotic",
+        "number": 3,
+        "translate": "psixotik"
+    },
+    {
+        "word": "year",
+        "number": 1,
+        "translate": "yil"
+    },
+    {
+        "word": "Kwanzaa",
+        "number": 1,
+        "translate": "Kvanzaa"
+    },
+    {
+        "word": "Dive",
+        "number": 3,
+        "translate": "Sho'ng'in"
+    },
+    {
+        "word": "minute",
+        "number": 2,
+        "translate": "daqiqa"
+    },
+    {
+        "word": "fact",
+        "number": 1,
+        "translate": "haqiqat"
+    },
+    {
+        "word": "coming",
+        "number": 8,
+        "translate": "kelayotgan"
+    },
+    {
+        "word": "whole",
+        "number": 2,
+        "translate": "butun"
+    },
+    {
+        "word": "Hoover",
+        "number": 1,
+        "translate": "Guver"
+    },
+    {
+        "word": "spay",
+        "number": 1,
+        "translate": "spay"
+    },
+    {
+        "word": "folks",
+        "number": 1,
+        "translate": "odamlar"
+    },
+    {
+        "word": "hundred",
+        "number": 1,
+        "translate": "yuz"
+    },
+    {
+        "word": "thought",
+        "number": 6,
+        "translate": "o'yladi"
+    },
+    {
+        "word": "neuter",
+        "number": 1,
+        "translate": "neytral"
+    },
+    {
+        "word": "hope",
+        "number": 1,
+        "translate": "umid"
+    },
+    {
+        "word": "Yeah",
+        "number": 15,
+        "translate": "Ha"
+    },
+    {
+        "word": "continent",
+        "number": 1,
+        "translate": "qit'a"
+    },
+    {
+        "word": "Hanukkah",
+        "number": 1,
+        "translate": "Hanukka"
+    },
+    {
+        "word": "secret",
+        "number": 1,
+        "translate": "sir"
+    },
+    {
+        "word": "digging",
+        "number": 1,
+        "translate": "qazish"
+    },
+    {
+        "word": "one",
+        "number": 10,
+        "translate": "bitta"
+    },
+    {
+        "word": "In",
+        "number": 1,
+        "translate": "In"
+    },
+    {
+        "word": "was",
+        "number": 16,
+        "translate": "edi"
+    },
+    {
+        "word": "broke",
+        "number": 2,
+        "translate": "buzildi"
+    },
+    {
+        "word": "Halloween",
+        "number": 1,
+        "translate": "Xellouin"
+    },
+    {
+        "word": "too",
+        "number": 10,
+        "translate": "ham"
+    },
+    {
+        "word": "Christmas",
+        "number": 1,
+        "translate": "Rojdestvo"
+    },
+    {
+        "word": "why",
+        "number": 5,
+        "translate": "nega"
+    },
+    {
+        "word": "never",
+        "number": 5,
+        "translate": "hech qachon"
+    },
+    {
+        "word": "quadruped",
+        "number": 1,
+        "translate": "to'rt oyoqli"
+    },
+    {
+        "word": "free",
+        "number": 3,
+        "translate": "ozod"
+    },
+    {
+        "word": "tux",
+        "number": 1,
+        "translate": "smoking"
+    },
+    {
+        "word": "hand",
+        "number": 5,
+        "translate": "qo'l"
+    },
+    {
+        "word": "Well",
+        "number": 17,
+        "translate": "Xo'sh"
+    },
+    {
+        "word": "Thanks",
+        "number": 9,
+        "translate": "rahmat"
+    },
+    {
+        "word": "smell",
+        "number": 1,
+        "translate": "hid"
+    },
+    {
+        "word": "week",
+        "number": 2,
+        "translate": "hafta"
+    },
+    {
+        "word": "kind",
+        "number": 11,
+        "translate": "mehribon"
+    },
+    {
+        "word": "including",
+        "number": 1,
+        "translate": "shu jumladan"
+    },
+    {
+        "word": "or",
+        "number": 4,
+        "translate": "yoki"
+    },
+    {
+        "word": "But",
+        "number": 4,
+        "translate": "Lekin"
+    },
+    {
+        "word": "shut",
+        "number": 9,
+        "translate": "yoping"
+    },
+    {
+        "word": "unsanitary",
+        "number": 1,
+        "translate": "antisanitariya"
+    },
+    {
+        "word": "nature",
+        "number": 1,
+        "translate": "tabiat"
+    },
+    {
+        "word": "So",
+        "number": 14,
+        "translate": "Shunday qilib"
+    },
+    {
+        "word": "Ship",
+        "number": 1,
+        "translate": "Kema"
+    },
+    {
+        "word": "metals",
+        "number": 1,
+        "translate": "metallar"
+    },
+    {
+        "word": "appreciate",
+        "number": 1,
+        "translate": "qadrlash"
+    },
+    {
+        "word": "Enough",
+        "number": 3,
+        "translate": "Yetarli"
+    },
+    {
+        "word": "quiet",
+        "number": 1,
+        "translate": "tinch"
+    },
+    {
+        "word": "precious",
+        "number": 1,
+        "translate": "qimmatli"
+    },
+    {
+        "word": "Be",
+        "number": 2,
+        "translate": "Bo'l"
+    },
+    {
+        "word": "scare",
+        "number": 1,
+        "translate": "qo'rqitish"
+    },
+    {
+        "word": "meet",
+        "number": 1,
+        "translate": "uchrashish"
+    },
+    {
+        "word": "trying",
+        "number": 1,
+        "translate": "harakat qilish"
+    },
+    {
+        "word": "moment",
+        "number": 2,
+        "translate": "moment"
+    },
+    {
+        "word": "remember",
+        "number": 2,
+        "translate": "eslab qoling"
+    },
+    {
+        "word": "using",
+        "number": 1,
+        "translate": "foydalanish"
+    },
+    {
+        "word": "came",
+        "number": 2,
+        "translate": "keldi"
+    },
+    {
+        "word": "DDS",
+        "number": 1,
+        "translate": "DDS"
+    },
+    {
+        "word": "see",
+        "number": 19,
+        "translate": "qarang"
+    },
+    {
+        "word": "may",
+        "number": 2,
+        "translate": "mumkin"
+    },
+    {
+        "word": "shelf",
+        "number": 1,
+        "translate": "raf"
+    },
+    {
+        "word": "just",
+        "number": 42,
+        "translate": "shunchaki"
+    },
+    {
+        "word": "help",
+        "number": 7,
+        "translate": "Yordam"
+    },
+    {
+        "word": "right",
+        "number": 31,
+        "translate": "to'g'ri"
+    },
+    {
+        "word": "top",
+        "number": 4,
+        "translate": "yuqori"
+    },
+    {
+        "word": "house",
+        "number": 3,
+        "translate": "uy"
+    },
+    {
+        "word": "even",
+        "number": 7,
+        "translate": "hatto"
+    },
+    {
+        "word": "there",
+        "number": 24,
+        "translate": "U yerda"
+    },
+    {
+        "word": "left",
+        "number": 5,
+        "translate": "chap"
+    },
+    {
+        "word": "Oh",
+        "number": 51,
+        "translate": "Oh"
+    },
+    {
+        "word": "sorry",
+        "number": 5,
+        "translate": "kechirasiz"
+    },
+    {
+        "word": "put",
+        "number": 2,
+        "translate": "qo'yish"
+    },
+    {
+        "word": "place",
+        "number": 8,
+        "translate": "joy"
+    },
+    {
+        "word": "examination",
+        "number": 1,
+        "translate": "imtihon"
+    },
+    {
+        "word": "out",
+        "number": 37,
+        "translate": "tashqariga"
+    },
+    {
+        "word": "hop",
+        "number": 1,
+        "translate": "hop"
+    },
+    {
+        "word": "full",
+        "number": 1,
+        "translate": "to'la"
+    },
+    {
+        "word": "friend",
+        "number": 10,
+        "translate": "do'st"
+    },
+    {
+        "word": "all",
+        "number": 28,
+        "translate": "hammasi"
+    },
+    {
+        "word": "talk",
+        "number": 6,
+        "translate": "gapirish"
+    },
+    {
+        "word": "No",
+        "number": 50,
+        "translate": "Yo'q"
+    },
+    {
+        "word": "Okay",
+        "number": 15,
+        "translate": "xop"
+    },
+    {
+        "word": "table",
+        "number": 1,
+        "translate": "stol"
+    },
+    {
+        "word": "tooth",
+        "number": 1,
+        "translate": "tish"
+    },
+    {
+        "word": "sterilized",
+        "number": 1,
+        "translate": "sterillangan"
+    },
+    {
+        "word": "is",
+        "number": 83,
+        "translate": "hisoblanadi"
+    },
+    {
+        "word": "Double",
+        "number": 1,
+        "translate": "Ikki marta"
+    },
+    {
+        "word": "behind",
+        "number": 3,
+        "translate": "orqasida"
+    },
+    {
+        "word": "Look",
+        "number": 19,
+        "translate": "Qarang"
+    },
+    {
+        "word": "Ten",
+        "number": 1,
+        "translate": "O'n"
+    },
+    {
+        "word": "mouth",
+        "number": 2,
+        "translate": "og'iz"
+    },
+    {
+        "word": "yet",
+        "number": 2,
+        "translate": "hali"
+    },
+    {
+        "word": "Happy",
+        "number": 1,
+        "translate": "Baxtli"
+    },
+    {
+        "word": "no",
+        "number": 31,
+        "translate": "yo'q"
+    },
+    {
+        "word": "it",
+        "number": 118,
+        "translate": "bu"
+    },
+    {
+        "word": "at",
+        "number": 23,
+        "translate": "da"
+    },
+    {
+        "word": "old",
+        "number": 8,
+        "translate": "eski"
+    },
+    {
+        "word": "snowing",
+        "number": 1,
+        "translate": "qor yog'ishi"
+    },
+    {
+        "word": "like",
+        "number": 42,
+        "translate": "kabi"
+    },
+    {
+        "word": "digits",
+        "number": 1,
+        "translate": "raqamlar"
+    },
+    {
+        "word": "decade",
+        "number": 1,
+        "translate": "o'n yil"
+    },
+    {
+        "word": "doing",
+        "number": 9,
+        "translate": "qilmoq"
+    },
+    {
+        "word": "alarm",
+        "number": 1,
+        "translate": "signal"
+    },
+    {
+        "word": "here",
+        "number": 48,
+        "translate": "Bu yerga"
+    },
+    {
+        "word": "need",
+        "number": 8,
+        "translate": "kerak"
+    },
+    {
+        "word": "another",
+        "number": 4,
+        "translate": "boshqa"
+    },
+    {
+        "word": "break",
+        "number": 3,
+        "translate": "tanaffus"
+    },
+    {
+        "word": "clock",
+        "number": 2,
+        "translate": "soat"
+    },
+    {
+        "word": "years",
+        "number": 3,
+        "translate": "yillar"
+    },
+    {
+        "word": "Here",
+        "number": 7,
+        "translate": "Bu yerga"
+    },
+    {
+        "word": "problem",
+        "number": 2,
+        "translate": "muammo"
+    },
+    {
+        "word": "Stand",
+        "number": 1,
+        "translate": "Turing"
+    },
+    {
+        "word": "seller",
+        "number": 1,
+        "translate": "sotuvchi"
+    },
+    {
+        "word": "school",
+        "number": 1,
+        "translate": "maktab"
+    },
+    {
+        "word": "Check",
+        "number": 4,
+        "translate": "Tekshirish"
+    },
+    {
+        "word": "still",
+        "number": 6,
+        "translate": "hali ham"
+    },
+    {
+        "word": "come",
+        "number": 16,
+        "translate": "kel"
+    },
+    {
+        "word": "Eat",
+        "number": 1,
+        "translate": "Yemoq"
+    },
+    {
+        "word": "Right",
+        "number": 9,
+        "translate": "To'g'ri"
+    },
+    {
+        "word": "boring",
+        "number": 1,
+        "translate": "zerikarli"
+    },
+    {
+        "word": "some",
+        "number": 14,
+        "translate": "biroz"
+    },
+    {
+        "word": "big",
+        "number": 10,
+        "translate": "katta"
+    },
+    {
+        "word": "hate",
+        "number": 4,
+        "translate": "nafrat"
+    },
+    {
+        "word": "grass",
+        "number": 2,
+        "translate": "o't"
+    },
+    {
+        "word": "gone",
+        "number": 6,
+        "translate": "ketdi"
+    },
+    {
+        "word": "routine",
+        "number": 1,
+        "translate": "muntazam"
+    },
+    {
+        "word": "really",
+        "number": 10,
+        "translate": "haqiqatan ham"
+    },
+    {
+        "word": "thing",
+        "number": 11,
+        "translate": "narsa"
+    },
+    {
+        "word": "back",
+        "number": 25,
+        "translate": "orqaga"
+    },
+    {
+        "word": "knows",
+        "number": 1,
+        "translate": "biladi"
+    },
+    {
+        "word": "do",
+        "number": 37,
+        "translate": "qil"
+    },
+    {
+        "word": "up",
+        "number": 38,
+        "translate": "yuqoriga"
+    },
+    {
+        "word": "over",
+        "number": 16,
+        "translate": "ustida"
+    },
+    {
+        "word": "gotten",
+        "number": 1,
+        "translate": "oldi"
+    },
+    {
+        "word": "Make",
+        "number": 2,
+        "translate": "Qilish"
+    },
+    {
+        "word": "law",
+        "number": 2,
+        "translate": "qonun"
+    },
+    {
+        "word": "A",
+        "number": 9,
+        "translate": "A"
+    },
+    {
+        "word": "great",
+        "number": 19,
+        "translate": "ajoyib"
+    },
+    {
+        "word": "go",
+        "number": 40,
+        "translate": "ket"
+    },
+    {
+        "word": "Who",
+        "number": 6,
+        "translate": "JSSV"
+    },
+    {
+        "word": "Walk",
+        "number": 1,
+        "translate": "Yurish"
+    },
+    {
+        "word": "Improvise",
+        "number": 1,
+        "translate": "Improvizatsiya"
+    },
+    {
+        "word": "Maybe",
+        "number": 5,
+        "translate": "Balki"
+    },
+    {
+        "word": "On",
+        "number": 2,
+        "translate": "Yoniq"
+    },
+    {
+        "word": "as",
+        "number": 5,
+        "translate": "kabi"
+    },
+    {
+        "word": "along",
+        "number": 2,
+        "translate": "birga"
+    },
+    {
+        "word": "Trot",
+        "number": 1,
+        "translate": "Trot"
+    },
+    {
+        "word": "Throw",
+        "number": 1,
+        "translate": "Otish"
+    },
+    {
+        "word": "same",
+        "number": 1,
+        "translate": "bir xil"
+    },
+    {
+        "word": "act",
+        "number": 3,
+        "translate": "harakat"
+    },
+    {
+        "word": "Nature",
+        "number": 1,
+        "translate": "Tabiat"
+    },
+    {
+        "word": "swim",
+        "number": 1,
+        "translate": "suzish"
+    },
+    {
+        "word": "try",
+        "number": 3,
+        "translate": "harakat qilib ko'ring"
+    },
+    {
+        "word": "skip",
+        "number": 1,
+        "translate": "o'tkazib yuborish"
+    },
+    {
+        "word": "prance",
+        "number": 1,
+        "translate": "shahzoda"
+    },
+    {
+        "word": "magical",
+        "number": 1,
+        "translate": "sehrli"
+    },
+    {
+        "word": "stinks",
+        "number": 1,
+        "translate": "hidlaydi"
+    },
+    {
+        "word": "liberty",
+        "number": 2,
+        "translate": "erkinlik"
+    },
+    {
+        "word": "Baby",
+        "number": 1,
+        "translate": "Chaqaloq"
+    },
+    {
+        "word": "million",
+        "number": 1,
+        "translate": "million"
+    },
+    {
+        "word": "cesspool",
+        "number": 1,
+        "translate": "axlatxona"
+    },
+    {
+        "word": "attacked",
+        "number": 1,
+        "translate": "hujum qildi"
+    },
+    {
+        "word": "dreaded",
+        "number": 2,
+        "translate": "qo'rqinchli"
+    },
+    {
+        "word": "eaten",
+        "number": 2,
+        "translate": "egan"
+    },
+    {
+        "word": "cookbook",
+        "number": 2,
+        "translate": "oshxona kitobi"
+    },
+    {
+        "word": "Me",
+        "number": 3,
+        "translate": "Men"
+    },
+    {
+        "word": "paradise",
+        "number": 1,
+        "translate": "jannat"
+    },
+    {
+        "word": "pardon",
+        "number": 1,
+        "translate": "kechir"
+    },
+    {
+        "word": "record",
+        "number": 1,
+        "translate": "rekord"
+    },
+    {
+        "word": "chance",
+        "number": 2,
+        "translate": "imkoniyat"
+    },
+    {
+        "word": "protecting",
+        "number": 1,
+        "translate": "himoya qilish"
+    },
+    {
+        "word": "genius",
+        "number": 2,
+        "translate": "daho"
+    },
+    {
+        "word": "close",
+        "number": 1,
+        "translate": "yaqin"
+    },
+    {
+        "word": "enjoy",
+        "number": 1,
+        "translate": "rohatlaning"
+    },
+    {
+        "word": "heinous",
+        "number": 1,
+        "translate": "jirkanch"
+    },
+    {
+        "word": "cookie",
+        "number": 1,
+        "translate": "cookie"
+    },
+    {
+        "word": "Beg",
+        "number": 1,
+        "translate": "yolvormoq"
+    },
+    {
+        "word": "Think",
+        "number": 1,
+        "translate": "O'ylab ko'ring"
+    },
+    {
+        "word": "tired",
+        "number": 2,
+        "translate": "charchagan"
+    },
+    {
+        "word": "pizza",
+        "number": 1,
+        "translate": "pizza"
+    },
+    {
+        "word": "jerk",
+        "number": 1,
+        "translate": "jirkanch"
+    },
+    {
+        "word": "wonder",
+        "number": 1,
+        "translate": "hayrat"
+    },
+    {
+        "word": "higher",
+        "number": 1,
+        "translate": "yuqoriroq"
+    },
+    {
+        "word": "Kelly",
+        "number": 1,
+        "translate": "Kelli"
+    },
+    {
+        "word": "problem",
+        "number": 2,
+        "translate": "muammo"
+    },
+    {
+        "word": "Al",
+        "number": 3,
+        "translate": "Al"
+    },
+    {
+        "word": "sec",
+        "number": 1,
+        "translate": "sek"
+    },
+    {
+        "word": "Giraffe",
+        "number": 1,
+        "translate": "Jirafa"
+    },
+    {
+        "word": "Throw",
+        "number": 1,
+        "translate": "Otish"
+    },
+    {
+        "word": "routine",
+        "number": 1,
+        "translate": "muntazam"
+    },
+    {
+        "word": "break",
+        "number": 3,
+        "translate": "tanaffus"
+    },
+    {
+        "word": "up",
+        "number": 38,
+        "translate": "yuqoriga"
+    },
+    {
+        "word": "Let",
+        "number": 5,
+        "translate": "Mayli"
+    },
+    {
+        "word": "Hang",
+        "number": 2,
+        "translate": "Kutib turing"
+    },
+    {
+        "word": "run",
+        "number": 6,
+        "translate": "yugur"
+    },
+    {
+        "word": "back",
+        "number": 25,
+        "translate": "orqaga"
+    },
+    {
+        "word": "Ad",
+        "number": 1,
+        "translate": "E'lon"
+    },
+    {
+        "word": "honey",
+        "number": 1,
+        "translate": "asal"
+    },
+    {
+        "word": "along",
+        "number": 2,
+        "translate": "birga"
+    },
+    {
+        "word": "Safe",
+        "number": 1,
+        "translate": "Xavfsiz"
+    },
+    {
+        "word": "Improvise",
+        "number": 1,
+        "translate": "Improvizatsiya"
+    },
+    {
+        "word": "fly",
+        "number": 3,
+        "translate": "pashsha"
+    },
+    {
+        "word": "Works",
+        "number": 1,
+        "translate": "Ishlar"
+    },
+    {
+        "word": "Martin",
+        "number": 1,
+        "translate": "Martin"
+    },
+    {
+        "word": "know",
+        "number": 41,
+        "translate": "bilish"
+    },
+    {
+        "word": "tea",
+        "number": 1,
+        "translate": "choy"
+    },
+    {
+        "word": "beaches",
+        "number": 1,
+        "translate": "sohillar"
+    },
+    {
+        "word": "On",
+        "number": 2,
+        "translate": "Yoniq"
+    },
+    {
+        "word": "Boom",
+        "number": 1,
+        "translate": "Bom"
+    },
+    {
+        "word": "shine",
+        "number": 1,
+        "translate": "porlash"
+    },
+    {
+        "word": "as",
+        "number": 5,
+        "translate": "kabi"
+    },
+    {
+        "word": "done",
+        "number": 4,
+        "translate": "bajarildi"
+    },
+    {
+        "word": "more",
+        "number": 8,
+        "translate": "Ko'proq"
+    },
+    {
+        "word": "animals",
+        "number": 3,
+        "translate": "hayvonlar"
+    },
+    {
+        "word": "nice",
+        "number": 3,
+        "translate": "yaxshi"
+    },
+    {
+        "word": "seen",
+        "number": 1,
+        "translate": "ko'rgan"
+    },
+    {
+        "word": "Woman",
+        "number": 1,
+        "translate": "Ayol"
+    },
+    {
+        "word": "litter",
+        "number": 1,
+        "translate": "axlat"
+    },
+    {
+        "word": "monster",
+        "number": 5,
+        "translate": "yirtqich hayvon"
+    },
+    {
+        "word": "nibble",
+        "number": 1,
+        "translate": "tishlash"
+    },
+    {
+        "word": "sort",
+        "number": 2,
+        "translate": "saralash"
+    },
+    {
+        "word": "true",
+        "number": 1,
+        "translate": "rost"
+    },
+    {
+        "word": "Savage",
+        "number": 1,
+        "translate": "Yirtqich"
+    },
+    {
+        "word": "move",
+        "number": 21,
+        "translate": "harakat"
+    },
+    {
+        "word": "royal",
+        "number": 2,
+        "translate": "qirollik"
+    },
+    {
+        "word": "As",
+        "number": 2,
+        "translate": "Sifatida"
+    },
+    {
+        "word": "insulted",
+        "number": 1,
+        "translate": "haqoratlangan"
+    },
+    {
+        "word": "mud",
+        "number": 1,
+        "translate": "loy"
+    },
+    {
+        "word": "boy",
+        "number": 2,
+        "translate": "yigit"
+    },
+    {
+        "word": "greener",
+        "number": 1,
+        "translate": "yashilroq"
+    },
+    {
+        "word": "rare",
+        "number": 1,
+        "translate": "kamdan-kam"
+    },
+    {
+        "word": "central",
+        "number": 1,
+        "translate": "markaziy"
+    },
+    {
+        "word": "out",
+        "number": 37,
+        "translate": "tashqariga"
+    },
+    {
+        "word": "even",
+        "number": 7,
+        "translate": "hatto"
+    },
+    {
+        "word": "go",
+        "number": 40,
+        "translate": "ket"
+    },
+    {
+        "word": "Walk",
+        "number": 1,
+        "translate": "Yurish"
+    },
+    {
+        "word": "Maybe",
+        "number": 5,
+        "translate": "Balki"
+    },
+    {
+        "word": "Eat",
+        "number": 1,
+        "translate": "Yemoq"
+    },
+    {
+        "word": "school",
+        "number": 1,
+        "translate": "maktab"
+    },
+    {
+        "word": "Really",
+        "number": 5,
+        "translate": "Haqiqatan ham"
+    },
+    {
+        "word": "Up",
+        "number": 1,
+        "translate": "Yuqoriga"
+    },
+    {
+        "word": "love",
+        "number": 13,
+        "translate": "sevgi"
+    },
+    {
+        "word": "fun",
+        "number": 8,
+        "translate": "qiziqarli"
+    },
+    {
+        "word": "boom",
+        "number": 2,
+        "translate": "bum"
+    },
+    {
+        "word": "Straight",
+        "number": 1,
+        "translate": "Streyt"
+    },
+    {
+        "word": "ground",
+        "number": 1,
+        "translate": "zamin"
+    },
+    {
+        "word": "head",
+        "number": 9,
+        "translate": "bosh"
+    },
+    {
+        "word": "be",
+        "number": 36,
+        "translate": "bo'l"
+    },
+    {
+        "word": "New",
+        "number": 17,
+        "translate": "Yangi"
+    },
+    {
+        "word": "ever",
+        "number": 10,
+        "translate": "har doim"
+    },
+    {
+        "word": "monochromatic",
+        "number": 3,
+        "translate": "monoxromatik"
+    },
+    {
+        "word": "Antarctica",
+        "number": 2,
+        "translate": "Antarktida"
+    },
+    {
+        "word": "any",
+        "number": 7,
+        "translate": "har qanday"
+    },
+    {
+        "word": "running",
+        "number": 4,
+        "translate": "yugurish"
+    },
+    {
+        "word": "course",
+        "number": 4,
+        "translate": "kurs"
+    },
+    {
+        "word": "guys",
+        "number": 15,
+        "translate": "Yigitlar"
+    },
+    {
+        "word": "keep",
+        "number": 5,
+        "translate": "saqlamoq"
+    },
+    {
+        "word": "Thank",
+        "number": 9,
+        "translate": "rahmat"
+    },
+    {
+        "word": "natural",
+        "number": 3,
+        "translate": "tabiiy"
+    },
+    {
+        "word": "City",
+        "number": 1,
+        "translate": "Shahar"
+    },
+    {
+        "word": "Tell",
+        "number": 2,
+        "translate": "Ayting"
+    },
+    {
+        "word": "are",
+        "number": 54,
+        "translate": "bor"
+    },
+    {
+        "word": "home",
+        "number": 7,
+        "translate": "uy"
+    },
+    {
+        "word": "Wait",
+        "number": 11,
+        "translate": "Kutmoq"
+    },
+    {
+        "word": "sir",
+        "number": 3,
+        "translate": "janob"
+    },
+    {
+        "word": "now",
+        "number": 13,
+        "translate": "hozir"
+    },
+    {
+        "word": "belong",
+        "number": 2,
+        "translate": "tegishli"
+    },
+    {
+        "word": "appearance",
+        "number": 1,
+        "translate": "ko'rinish"
+    },
+    {
+        "word": "personal",
+        "number": 1,
+        "translate": "shaxsiy"
+    },
+    {
+        "word": "hour",
+        "number": 1,
+        "translate": "soat"
+    },
+    {
+        "word": "sounds",
+        "number": 1,
+        "translate": "tovushlar"
+    },
+    {
+        "word": "roots",
+        "number": 1,
+        "translate": "ildizlar"
+    },
+    {
+        "word": "Cam",
+        "number": 1,
+        "translate": "Cam"
+    },
+    {
+        "word": "conspiracy",
+        "number": 1,
+        "translate": "fitna"
+    },
+    {
+        "word": "very",
+        "number": 7,
+        "translate": "juda"
+    },
+    {
+        "word": "give",
+        "number": 8,
+        "translate": "berish"
+    },
+    {
+        "word": "spaces",
+        "number": 3,
+        "translate": "bo'shliqlar"
+    },
+    {
+        "word": "miss",
+        "number": 2,
+        "translate": "sog'indim"
+    },
+    {
+        "word": "much",
+        "number": 5,
+        "translate": "ko'p"
+    },
+    {
+        "word": "crowd",
+        "number": 1,
+        "translate": "olomon"
+    },
+    {
+        "word": "worked",
+        "number": 3,
+        "translate": "ishlagan"
+    },
+    {
+        "word": "safe",
+        "number": 3,
+        "translate": "xavfsiz"
+    },
+    {
+        "word": "Watch",
+        "number": 1,
+        "translate": "Tomosha qiling"
+    },
+    {
+        "word": "Too",
+        "number": 1,
+        "translate": "ham"
+    },
+    {
+        "word": "penguins",
+        "number": 3,
+        "translate": "pingvinlar"
+    },
+    {
+        "word": "hear",
+        "number": 8,
+        "translate": "eshitish"
+    },
+    {
+        "word": "rip",
+        "number": 1,
+        "translate": "joyi jannatda bo'lsin"
+    },
+    {
+        "word": "cake",
+        "number": 1,
+        "translate": "tort"
+    },
+    {
+        "word": "say",
+        "number": 10,
+        "translate": "demoq"
+    },
+    {
+        "word": "luck",
+        "number": 6,
+        "translate": "omad"
+    },
+    {
+        "word": "actually",
+        "number": 2,
+        "translate": "aslida"
+    },
+    {
+        "word": "wild",
+        "number": 21,
+        "translate": "yovvoyi"
+    },
+    {
+        "word": "Underpants",
+        "number": 1,
+        "translate": "Ichki shimlar"
+    },
+    {
+        "word": "heaven",
+        "number": 3,
+        "translate": "jannat"
+    },
+    {
+        "word": "hold",
+        "number": 3,
+        "translate": "tutmoq"
+    },
+    {
+        "word": "final",
+        "number": 1,
+        "translate": "final"
+    },
+    {
+        "word": "Connecticut",
+        "number": 5,
+        "translate": "Konnektikut"
+    },
+    {
+        "word": "wished",
+        "number": 1,
+        "translate": "tilagan"
+    },
+    {
+        "word": "Give",
+        "number": 5,
+        "translate": "Bering"
+    },
+    {
+        "word": "disease",
+        "number": 1,
+        "translate": "kasallik"
+    },
+    {
+        "word": "tell",
+        "number": 12,
+        "translate": "ayt"
+    },
+    {
+        "word": "Open",
+        "number": 2,
+        "translate": "Ochiq"
+    },
+    {
+        "word": "food",
+        "number": 2,
+        "translate": "ovqat"
+    },
+    {
+        "word": "Clean",
+        "number": 1,
+        "translate": "Toza"
+    },
+    {
+        "word": "rectal",
+        "number": 1,
+        "translate": "rektal"
+    },
+    {
+        "word": "air",
+        "number": 2,
+        "translate": "havo"
+    },
+    {
+        "word": "highly",
+        "number": 1,
+        "translate": "juda"
+    },
+    {
+        "word": "website",
+        "number": 1,
+        "translate": "veb-sayt"
+    },
+    {
+        "word": "sleep",
+        "number": 2,
+        "translate": "uyqu"
+    },
+    {
+        "word": "first",
+        "number": 3,
+        "translate": "birinchi"
+    },
+    {
+        "word": "Are",
+        "number": 3,
+        "translate": "bor"
+    },
+    {
+        "word": "Mother",
+        "number": 1,
+        "translate": "Ona"
+    },
+    {
+        "word": "live",
+        "number": 5,
+        "translate": "yashash"
+    },
+    {
+        "word": "worst",
+        "number": 1,
+        "translate": "eng yomoni"
+    },
+    {
+        "word": "thermometer",
+        "number": 2,
+        "translate": "termometr"
+    },
+    {
+        "word": "nuts",
+        "number": 1,
+        "translate": "yong'oqlar"
+    },
+    {
+        "word": "embarrassing",
+        "number": 1,
+        "translate": "uyatli"
+    },
+    {
+        "word": "heard",
+        "number": 4,
+        "translate": "eshitildi"
+    },
+    {
+        "word": "telling",
+        "number": 2,
+        "translate": "aytib"
+    },
+    {
+        "word": "told",
+        "number": 5,
+        "translate": "aytdi"
+    },
+    {
+        "word": "take",
+        "number": 10,
+        "translate": "olish"
+    },
+    {
+        "word": "idea",
+        "number": 3,
+        "translate": "fikr"
+    },
+    {
+        "word": "us",
+        "number": 23,
+        "translate": "Biz"
+    },
+    {
+        "word": "offer",
+        "number": 1,
+        "translate": "taklif"
+    },
+    {
+        "word": "train",
+        "number": 5,
+        "translate": "poyezd"
+    },
+    {
+        "word": "Then",
+        "number": 4,
+        "translate": "Keyin"
+    },
+    {
+        "word": "Grand",
+        "number": 7,
+        "translate": "Grand"
+    },
+    {
+        "word": "have",
+        "number": 45,
+        "translate": "bor"
+    },
+    {
+        "word": "Get",
+        "number": 15,
+        "translate": "Oling"
+    },
+    {
+        "word": "Back",
+        "number": 3,
+        "translate": "Orqaga"
+    },
+    {
+        "word": "none",
+        "number": 1,
+        "translate": "yo'q"
+    },
+    {
+        "word": "blab",
+        "number": 1,
+        "translate": "blab"
+    },
+    {
+        "word": "happen",
+        "number": 2,
+        "translate": "sodir bo'lmoq"
+    },
+    {
+        "word": "steak",
+        "number": 10,
+        "translate": "biftek"
+    },
+    {
+        "word": "hypothetically",
+        "number": 1,
+        "translate": "faraziy"
+    },
+    {
+        "word": "North",
+        "number": 1,
+        "translate": "Shimoliy"
+    },
+    {
+        "word": "talking",
+        "number": 3,
+        "translate": "gaplashish"
+    },
+    {
+        "word": "imagine",
+        "number": 1,
+        "translate": "tasavvur qiling"
+    },
+    {
+        "word": "run",
+        "number": 6,
+        "translate": "yugur"
+    },
+    {
+        "word": "Safe",
+        "number": 1,
+        "translate": "Xavfsiz"
+    },
+    {
+        "word": "clones",
+        "number": 1,
+        "translate": "klonlar"
+    },
+    {
+        "word": "Calm",
+        "number": 3,
+        "translate": "Sokin"
+    },
+    {
+        "word": "honestly",
+        "number": 1,
+        "translate": "halol"
+    },
+    {
+        "word": "tea",
+        "number": 1,
+        "translate": "choy"
+    },
+    {
+        "word": "White",
+        "number": 1,
+        "translate": "Oq"
+    },
+    {
+        "word": "grin",
+        "number": 1,
+        "translate": "jilmayish"
+    },
+    {
+        "word": "dig",
+        "number": 1,
+        "translate": "qazish"
+    },
+    {
+        "word": "environment",
+        "number": 2,
+        "translate": "muhit"
+    },
+    {
+        "word": "Strangle",
+        "number": 1,
+        "translate": "Bo'g'ish"
+    },
+    {
+        "word": "smug",
+        "number": 1,
+        "translate": "maftunkor"
+    },
+    {
+        "word": "business",
+        "number": 1,
+        "translate": "biznes"
+    },
+    {
+        "word": "done",
+        "number": 4,
+        "translate": "bajarildi"
+    },
+    {
+        "word": "grows",
+        "number": 1,
+        "translate": "o'sadi"
+    },
+    {
+        "word": "worse",
+        "number": 2,
+        "translate": "yomonroq"
+    },
+    {
+        "word": "clone",
+        "number": 1,
+        "translate": "klonlash"
+    },
+    {
+        "word": "hang",
+        "number": 2,
+        "translate": "osmoq"
+    },
+    {
+        "word": "looks",
+        "number": 1,
+        "translate": "ko'rinadi"
+    },
+    {
+        "word": "hair",
+        "number": 1,
+        "translate": "Soch"
+    },
+    {
+        "word": "straightened",
+        "number": 1,
+        "translate": "tekislangan"
+    },
+    {
+        "word": "fake",
+        "number": 1,
+        "translate": "soxta"
+    },
+    {
+        "word": "beaches",
+        "number": 1,
+        "translate": "sohillar"
+    },
+    {
+        "word": "Next",
+        "number": 1,
+        "translate": "Keyingisi"
+    },
+    {
+        "word": "bury",
+        "number": 1,
+        "translate": "dafn qilmoq"
+    },
+    {
+        "word": "move",
+        "number": 21,
+        "translate": "harakat"
+    },
+    {
+        "word": "shushed",
+        "number": 1,
+        "translate": "jim"
+    },
+    {
+        "word": "animals",
+        "number": 3,
+        "translate": "hayvonlar"
+    },
+    {
+        "word": "devised",
+        "number": 1,
+        "translate": "ishlab chiqilgan"
+    },
+    {
+        "word": "cleverly",
+        "number": 1,
+        "translate": "aqlli"
+    },
+    {
+        "word": "intended",
+        "number": 1,
+        "translate": "mo'ljallangan"
+    },
+    {
+        "word": "hugging",
+        "number": 1,
+        "translate": "quchoqlash"
+    },
+    {
+        "word": "attacking",
+        "number": 3,
+        "translate": "hujum qilish"
+    },
+    {
+        "word": "Dude",
+        "number": 1,
+        "translate": "Do'stim"
+    },
+    {
+        "word": "First",
+        "number": 2,
+        "translate": "Birinchidan"
+    },
+    {
+        "word": "smiling",
+        "number": 1,
+        "translate": "tabassum"
+    },
+    {
+        "word": "sidewalk",
+        "number": 1,
+        "translate": "trotuarlar"
+    },
+    {
+        "word": "Complete",
+        "number": 1,
+        "translate": "Bajarildi"
+    },
+    {
+        "word": "plan",
+        "number": 14,
+        "translate": "reja"
+    },
+    {
+        "word": "flowers",
+        "number": 1,
+        "translate": "gullar"
+    },
+    {
+        "word": "die",
+        "number": 3,
+        "translate": "o'lish"
+    },
+    {
+        "word": "checked",
+        "number": 1,
+        "translate": "tekshirildi"
+    },
+    {
+        "word": "nice",
+        "number": 3,
+        "translate": "yaxshi"
+    },
+    {
+        "word": "hungry",
+        "number": 5,
+        "translate": "och"
+    },
+    {
+        "word": "Nonsense",
+        "number": 1,
+        "translate": "Bema'nilik"
+    },
+    {
+        "word": "pansies",
+        "number": 3,
+        "translate": "pansies"
+    },
+    {
+        "word": "sweetest",
+        "number": 1,
+        "translate": "eng shirin"
+    },
+    {
+        "word": "honcho",
+        "number": 1,
+        "translate": "honcho"
+    },
+    {
+        "word": "rocks",
+        "number": 1,
+        "translate": "toshlar"
+    },
+    {
+        "word": "Presenting",
+        "number": 1,
+        "translate": "Taqdim etilmoqda"
+    },
+    {
+        "word": "bunch",
+        "number": 3,
+        "translate": "to'da"
+    },
+    {
+        "word": "music",
+        "number": 1,
+        "translate": "musiqa"
+    },
+    {
+        "word": "hairdo",
+        "number": 1,
+        "translate": "soch turmagi"
+    },
+    {
+        "word": "dunk",
+        "number": 1,
+        "translate": "dunk"
+    },
+    {
+        "word": "girls",
+        "number": 2,
+        "translate": "qizlar"
+    },
+    {
+        "word": "compete",
+        "number": 1,
+        "translate": "raqobat qilish"
+    },
+    {
+        "word": "Wow",
+        "number": 1,
+        "translate": "Voy-buy"
+    },
+    {
+        "word": "website",
+        "number": 1,
+        "translate": "veb-sayt"
+    },
+    {
+        "word": "mud",
+        "number": 1,
+        "translate": "loy"
+    },
+    {
+        "word": "realize",
+        "number": 1,
+        "translate": "anglash"
+    },
+    {
+        "word": "beginning",
+        "number": 1,
+        "translate": "boshlanishi"
+    },
+    {
+        "word": "sack",
+        "number": 2,
+        "translate": "qop"
+    },
+    {
+        "word": "forgot",
+        "number": 1,
+        "translate": "unutgan"
+    },
+    {
+        "word": "sidewalk",
+        "number": 1,
+        "translate": "trotuarlar"
+    },
+    {
+        "word": "enormous",
+        "number": 1,
+        "translate": "ulkan"
+    },
+    {
+        "word": "trying",
+        "number": 1,
+        "translate": "harakat qilish"
+    },
+    {
+        "word": "realize",
+        "number": 1,
+        "translate": "anglash"
+    },
+    {
+        "word": "breakfast",
+        "number": 1,
+        "translate": "nonushta"
+    },
+    {
+        "word": "bet",
+        "number": 1,
+        "translate": "tikish"
+    },
+    {
+        "word": "born",
+        "number": 2,
+        "translate": "tug'ilgan"
+    },
+    {
+        "word": "island",
+        "number": 5,
+        "translate": "orol"
+    },
+    {
+        "word": "purpose",
+        "number": 1,
+        "translate": "maqsad"
+    },
+    {
+        "word": "work",
+        "number": 1,
+        "translate": "ish"
+    },
+    {
+        "word": "fences",
+        "number": 1,
+        "translate": "to'siqlar"
+    },
+    {
+        "word": "Outdoor",
+        "number": 1,
+        "translate": "Ochiq havoda"
+    },
+    {
+        "word": "unsound",
+        "number": 1,
+        "translate": "noto'g'ri"
+    },
+    {
+        "word": "supposed",
+        "number": 1,
+        "translate": "taxmin qilingan"
+    },
+    {
+        "word": "rescued",
+        "number": 3,
+        "translate": "qutqarildi"
+    },
+    {
+        "word": "nightmare",
+        "number": 2,
+        "translate": "dahshatli tush"
+    },
+    {
+        "word": "helpless",
+        "number": 1,
+        "translate": "nochor"
+    },
+    {
+        "word": "face",
+        "number": 2,
+        "translate": "yuz"
+    },
+    {
+        "word": "standing",
+        "number": 1,
+        "translate": "tik turgan"
+    },
+    {
+        "word": "pose",
+        "number": 1,
+        "translate": "poza"
+    },
+    {
+        "word": "Sweet",
+        "number": 1,
+        "translate": "Shirin"
+    },
+    {
+        "word": "Dilemma",
+        "number": 1,
+        "translate": "Dilemma"
+    },
+    {
+        "word": "Suit",
+        "number": 1,
+        "translate": "Kostyum"
+    },
+    {
+        "word": "tasting",
+        "number": 1,
+        "translate": "tatib ko'rish"
+    },
+    {
+        "word": "plushy",
+        "number": 1,
+        "translate": "ortiqcha"
+    },
+    {
+        "word": "Soon",
+        "number": 1,
+        "translate": "Tez orada"
+    },
+    {
+        "word": "sucks",
+        "number": 1,
+        "translate": "yomon"
+    },
+    {
+        "word": "excellent",
+        "number": 1,
+        "translate": "ajoyib"
+    },
+    {
+        "word": "forest",
+        "number": 1,
+        "translate": "o'rmon"
+    },
+    {
+        "word": "Madagascar",
+        "number": 1,
+        "translate": "Madagaskar"
+    },
+    {
+        "word": "solved",
+        "number": 1,
+        "translate": "hal qilingan"
+    },
+    {
+        "word": "deep",
+        "number": 2,
+        "translate": "chuqur"
+    },
+    {
+        "word": "mural",
+        "number": 1,
+        "translate": "devoriy rasm"
+    },
+    {
+        "word": "fella",
+        "number": 1,
+        "translate": "do'stim"
+    },
+    {
+        "word": "action",
+        "number": 1,
+        "translate": "harakat"
+    },
+    {
+        "word": "freaks",
+        "number": 1,
+        "translate": "jinnilar"
+    },
+    {
+        "word": "energy",
+        "number": 1,
+        "translate": "energiya"
+    },
+    {
+        "word": "win",
+        "number": 2,
+        "translate": "g'alaba qozonish"
+    },
+    {
+        "word": "once",
+        "number": 1,
+        "translate": "bir marta"
+    },
+    {
+        "word": "rubber",
+        "number": 1,
+        "translate": "kauchuk"
+    },
+    {
+        "word": "breathing",
+        "number": 1,
+        "translate": "nafas olish"
+    },
+    {
+        "word": "took",
+        "number": 1,
+        "translate": "oldi"
+    },
+    {
+        "word": "low",
+        "number": 1,
+        "translate": "past"
+    },
+    {
+        "word": "tender",
+        "number": 1,
+        "translate": "tender"
+    },
+    {
+        "word": "groove",
+        "number": 1,
+        "translate": "truba"
+    },
+    {
+        "word": "blood",
+        "number": 2,
+        "translate": "qon"
+    },
+    {
+        "word": "grooming",
+        "number": 2,
+        "translate": "parvarish qilish"
+    },
+    {
+        "word": "Got",
+        "number": 4,
+        "translate": "bor"
+    },
+    {
+        "word": "park",
+        "number": 1,
+        "translate": "park"
+    },
+    {
+        "word": "Put",
+        "number": 1,
+        "translate": "Qo'ying"
+    },
+    {
+        "word": "While",
+        "number": 1,
+        "translate": "Vaholanki"
+    },
+    {
+        "word": "simply",
+        "number": 1,
+        "translate": "oddiygina"
+    },
+    {
+        "word": "alarmed",
+        "number": 1,
+        "translate": "xavotirga tushdi"
+    },
+    {
+        "word": "Want",
+        "number": 1,
+        "translate": "istayman"
+    },
+    {
+        "word": "view",
+        "number": 1,
+        "translate": "ko'rinish"
+    },
+    {
+        "word": "shining",
+        "number": 1,
+        "translate": "porlash"
+    },
+    {
+        "word": "version",
+        "number": 1,
+        "translate": "versiya"
+    },
+    {
+        "word": "lungs",
+        "number": 1,
+        "translate": "o'pka"
+    },
+    {
+        "word": "built",
+        "number": 1,
+        "translate": "qurilgan"
+    },
+    {
+        "word": "asleep",
+        "number": 1,
+        "translate": "uyquda"
+    },
+    {
+        "word": "pumping",
+        "number": 1,
+        "translate": "nasos"
+    },
+    {
+        "word": "steam",
+        "number": 1,
+        "translate": "bug '"
+    },
+    {
+        "word": "play",
+        "number": 1,
+        "translate": "o'ynash"
+    },
+    {
+        "word": "build",
+        "number": 1,
+        "translate": "qurmoq"
+    },
+    {
+        "word": "pastrami",
+        "number": 1,
+        "translate": "pastrami"
+    },
+    {
+        "word": "yeah",
+        "number": 3,
+        "translate": "ha"
+    },
+    {
+        "word": "rye",
+        "number": 1,
+        "translate": "javdar"
+    },
+    {
+        "word": "inner",
+        "number": 1,
+        "translate": "ichki"
+    },
+    {
+        "word": "Feel",
+        "number": 1,
+        "translate": "His"
+    },
+    {
+        "word": "road",
+        "number": 1,
+        "translate": "yo'l"
+    },
+    {
+        "word": "deli",
+        "number": 1,
+        "translate": "gastronom"
+    },
+    {
+        "word": "flat",
+        "number": 1,
+        "translate": "tekis"
+    },
+    {
+        "word": "quick",
+        "number": 1,
+        "translate": "tez"
+    },
+    {
+        "word": "different",
+        "number": 1,
+        "translate": "boshqacha"
+    },
+    {
+        "word": "Primates",
+        "number": 1,
+        "translate": "Primatlar"
+    },
+    {
+        "word": "Kind",
+        "number": 1,
+        "translate": "Mehribon"
+    },
+    {
+        "word": "sky",
+        "number": 1,
+        "translate": "osmon"
+    },
+    {
+        "word": "E",
+        "number": 1,
+        "translate": "E"
+    },
+    {
+        "word": "nowhere",
+        "number": 1,
+        "translate": "hech qayerda"
+    },
+    {
+        "word": "charged",
+        "number": 1,
+        "translate": "zaryadlangan"
+    },
+    {
+        "word": "presents",
+        "number": 1,
+        "translate": "sovg'alar"
+    },
+    {
+        "word": "juke",
+        "number": 1,
+        "translate": "juke"
+    },
+    {
+        "word": "Ladies",
+        "number": 1,
+        "translate": "Xonimlar"
+    },
+    {
+        "word": "ages",
+        "number": 1,
+        "translate": "yosh"
+    },
+    {
+        "word": "snowing",
+        "number": 1,
+        "translate": "qor yog'ishi"
+    },
+    {
+        "word": "years",
+        "number": 3,
+        "translate": "yillar"
+    },
+    {
+        "word": "like",
+        "number": 42,
+        "translate": "kabi"
+    },
+    {
+        "word": "Look",
+        "number": 19,
+        "translate": "Qarang"
+    },
+    {
+        "word": "Here",
+        "number": 7,
+        "translate": "Bu yerga"
+    },
+    {
+        "word": "great",
+        "number": 19,
+        "translate": "ajoyib"
+    },
+    {
+        "word": "really",
+        "number": 10,
+        "translate": "haqiqatan ham"
+    },
+    {
+        "word": "seller",
+        "number": 1,
+        "translate": "sotuvchi"
+    },
+    {
+        "word": "gone",
+        "number": 6,
+        "translate": "ketdi"
+    },
+    {
+        "word": "alarm",
+        "number": 1,
+        "translate": "signal"
+    },
+    {
+        "word": "nothing",
+        "number": 3,
+        "translate": "hech narsa"
+    },
+    {
+        "word": "No",
+        "number": 50,
+        "translate": "Yo'q"
+    },
+    {
+        "word": "both",
+        "number": 1,
+        "translate": "ikkalasi ham"
+    },
+    {
+        "word": "thing",
+        "number": 11,
+        "translate": "narsa"
+    },
+    {
+        "word": "same",
+        "number": 1,
+        "translate": "bir xil"
+    },
+    {
+        "word": "knew",
+        "number": 1,
+        "translate": "bilar edi"
+    },
+    {
+        "word": "gotten",
+        "number": 1,
+        "translate": "oldi"
+    },
+    {
+        "word": "over",
+        "number": 16,
+        "translate": "ustida"
+    },
+    {
+        "word": "Somebody",
+        "number": 4,
+        "translate": "Kimdir"
+    },
+    {
+        "word": "results",
+        "number": 1,
+        "translate": "natijalar"
+    },
+    {
+        "word": "another",
+        "number": 4,
+        "translate": "boshqa"
+    },
+    {
+        "word": "come",
+        "number": 16,
+        "translate": "kel"
+    },
+    {
+        "word": "Status",
+        "number": 1,
+        "translate": "Holat"
+    },
+    {
+        "word": "excuses",
+        "number": 1,
+        "translate": "uzr"
+    },
+    {
+        "word": "whoop",
+        "number": 1,
+        "translate": "voy"
+    },
+    {
+        "word": "grass",
+        "number": 2,
+        "translate": "o't"
+    },
+    {
+        "word": "some",
+        "number": 14,
+        "translate": "biroz"
+    },
+    {
+        "word": "cancel",
+        "number": 1,
+        "translate": "bekor qilish"
+    },
+    {
+        "word": "exactly",
+        "number": 1,
+        "translate": "aynan"
+    },
+    {
+        "word": "turned",
+        "number": 1,
+        "translate": "aylantirildi"
+    },
+    {
+        "word": "act",
+        "number": 3,
+        "translate": "harakat"
+    },
+    {
+        "word": "tin",
+        "number": 1,
+        "translate": "qalay"
+    },
+    {
+        "word": "Who",
+        "number": 6,
+        "translate": "JSSV"
+    },
+    {
+        "word": "Navigation",
+        "number": 1,
+        "translate": "Navigatsiya"
+    },
+    {
+        "word": "need",
+        "number": 8,
+        "translate": "kerak"
+    },
+    {
+        "word": "Trot",
+        "number": 1,
+        "translate": "Trot"
+    },
+    {
+        "word": "Matt",
+        "number": 1,
+        "translate": "Matt"
+    },
+    {
+        "word": "kill",
+        "number": 7,
+        "translate": "o'ldirish"
+    },
+    {
+        "word": "knows",
+        "number": 1,
+        "translate": "biladi"
+    },
+    {
+        "word": "pocket",
+        "number": 1,
+        "translate": "cho'ntak"
+    },
+    {
+        "word": "monkey",
+        "number": 3,
+        "translate": "maymun"
+    },
+    {
+        "word": "Stop",
+        "number": 4,
+        "translate": "STOP"
+    },
+    {
+        "word": "make",
+        "number": 14,
+        "translate": "qilish"
+    },
+    {
+        "word": "flowers",
+        "number": 1,
+        "translate": "gullar"
+    },
+    {
+        "word": "Dude",
+        "number": 1,
+        "translate": "Do'stim"
+    },
+    {
+        "word": "hair",
+        "number": 1,
+        "translate": "Soch"
+    },
+    {
+        "word": "filthy",
+        "number": 1,
+        "translate": "iflos"
+    },
+    {
+        "word": "Zoo",
+        "number": 4,
+        "translate": "Hayvonot bog'i"
+    },
+    {
+        "word": "impression",
+        "number": 1,
+        "translate": "taassurot"
+    },
+    {
+        "word": "blatant",
+        "number": 1,
+        "translate": "ochiqchasiga"
+    },
+    {
+        "word": "gas",
+        "number": 3,
+        "translate": "gaz"
+    },
+    {
+        "word": "proudly",
+        "number": 2,
+        "translate": "g'urur bilan"
+    },
+    {
+        "word": "Smiles",
+        "number": 1,
+        "translate": "Tabassum"
+    },
+    {
+        "word": "grows",
+        "number": 1,
+        "translate": "o'sadi"
+    },
+    {
+        "word": "gentlemen",
+        "number": 2,
+        "translate": "janoblar"
+    },
+    {
+        "word": "hugging",
+        "number": 1,
+        "translate": "quchoqlash"
+    },
+    {
+        "word": "health",
+        "number": 1,
+        "translate": "salomatlik"
+    },
+    {
+        "word": "saw",
+        "number": 1,
+        "translate": "ko'rgan"
+    },
+    {
+        "word": "smiling",
+        "number": 1,
+        "translate": "tabassum"
+    },
+    {
+        "word": "sassy",
+        "number": 1,
+        "translate": "shijoatli"
+    },
+    {
+        "word": "brought",
+        "number": 2,
+        "translate": "olib keldi"
+    },
+    {
+        "word": "physically",
+        "number": 6,
+        "translate": "jismonan"
+    },
+    {
+        "word": "Puffy",
+        "number": 1,
+        "translate": "Puffy"
+    },
+    {
+        "word": "children",
+        "number": 1,
+        "translate": "bolalar"
+    },
+    {
+        "word": "violations",
+        "number": 1,
+        "translate": "buzilishlar"
+    },
+    {
+        "word": "girls",
+        "number": 2,
+        "translate": "qizlar"
+    },
+    {
+        "word": "Tasty",
+        "number": 1,
+        "translate": "Mazali"
+    },
+    {
+        "word": "iI",
+        "number": 5,
+        "translate": "iI"
+    },
+    {
+        "word": "Central",
+        "number": 7,
+        "translate": "Markaziy"
+    },
+    {
+        "word": "California",
+        "number": 1,
+        "translate": "Kaliforniya"
+    },
+    {
+        "word": "codes",
+        "number": 1,
+        "translate": "kodlari"
+    },
+    {
+        "word": "helping",
+        "number": 1,
+        "translate": "yordam berish"
+    },
+    {
+        "word": "later",
+        "number": 2,
+        "translate": "keyinroq"
+    },
+    {
+        "word": "boring",
+        "number": 1,
+        "translate": "zerikarli"
+    },
+    {
+        "word": "King",
+        "number": 4,
+        "translate": "Qirol"
+    },
+    {
+        "word": "grin",
+        "number": 1,
+        "translate": "jilmayish"
+    },
+    {
+        "word": "Smack",
+        "number": 1,
+        "translate": "Smack"
+    },
+    {
+        "word": "type",
+        "number": 2,
+        "translate": "turi"
+    },
+    {
+        "word": "zoo",
+        "number": 7,
+        "translate": "hayvonot bog'i"
+    },
+    {
+        "word": "outside",
+        "number": 1,
+        "translate": "tashqarida"
+    },
+    {
+        "word": "thinking",
+        "number": 8,
+        "translate": "fikrlash"
+    },
+    {
+        "word": "yes",
+        "number": 1,
+        "translate": "ha"
+    }
+]
