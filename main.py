@@ -5,8 +5,9 @@ from collections import Counter
 from tqdm import tqdm
 
 from deep_translator import GoogleTranslator
-from googletrans import Translator
 from nltk.corpus import wordnet
+from googletrans import Translator
+
 
 
 def is_english_word(word):
@@ -56,8 +57,8 @@ def translate_word(word, number, translator, results):
 
 
 def translate(data, output_file):
-    translator = Translator()
     print('Translating...')
+    translator = Translator()
 
     translated_entries = []
     threads = []
